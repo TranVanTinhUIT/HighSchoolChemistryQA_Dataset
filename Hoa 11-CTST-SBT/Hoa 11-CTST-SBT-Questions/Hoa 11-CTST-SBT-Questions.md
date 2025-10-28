@@ -1,25 +1,4 @@
-## Chương 1. CÂN BẰNG HOÁ HOC
-
-CHƯƠNG 4. HYDROCARBON ..... 51
-Bài 12. Alkane ..... 51
-Bài 13. Hydrocarbon không no ..... 56
-Bài 14. Arene (Hydrocarbon thơm) ..... 60
-Ôn tập chương 4 ..... 67
-CHƯƠNG 5. DÃN XUÁT HALOGEN - ALCOHOL - PHENOL ..... 70
-Bài 15. Dẫn xuất halogen ..... 70
-Bài 16. Alcohol. ..... 75
-Bài 17. Phenol. ..... 82
-Ôn tập chương 5 ..... 87
-CHƯƠNG 6. HỢP CHÂT CARBONYL (ALDEHYDE - KETONE) - CARBOXYLIC ACID ..... 91
-Bài 18. Hợp chất carbonyl ..... 91
-Bài 19. Carboxylic acid ..... 96
-Ôn tập chương 6 ..... 102
-Hướng dẫn giải ..... 107
-![](https://cdn.mathpix.com/cropped/2025_10_23_ae7aef68fb3b41082d29g-01.jpg?height=390&width=344&top_left_y=292&top_left_x=1956)
-
-## KHÁI NIỆM
-
-VỀ CÂN BẦNG HOÁ HỌC
+## Bài 1. KHÁI NIỆM VỀ CÂN BẦNG HOÁ HỌC
 
 Dữ liệu áp dụng cho câu 1.1, 1.2, 1.3, 1.4 và 1.5.
 Cho phương trình hoá học của phản ứng sản xuất ammonia trong công nghiệp:
@@ -151,10 +130,7 @@ $$
 Hãy giải thích sự xuất hiện kết tủa keo trắng trong thí nghiệm trên.
 1.20*. Theo báo cáo mới nhất vừa được Ủy ban Liên chính phủ về Biến đổi khí hậu (IPCC) công bố ngày 09/8/2021, lượng khí thải gây hiệu ứng nhà kính do các hoạt động của con người là nguyên nhân chính gây ra hiện tượng ấm lên khoảng $1,1^{\circ} \mathrm{C}$ của Trái Đất trong khoảng thời gian từ năm 1850 1900. Hãy giải thích vì sao dù lượng khí $\mathrm{CO}_{2}$ thải ra từ các hoạt động công nghiệp hằng năm rất lớn nhưng nồng độ của chất khí này trong khí quyển lại tăng chậm.
 
-Brit
-2
-
-## CÂN BẰNG TRONG DUNG DICH NUỚC
+## Bài 2. CÂN BẰNG TRONG DUNG DICH NUỚC
 
 2.1. Vì sao dung dịch của các muối, acid, base dẫn điện?
 A. Do có sự di chuyển của electron tạo thành dòng electron.
@@ -292,11 +268,7 @@ OT1.10. Trộn lẫn V mL dung dịch $\mathrm{NaOH} 0,01 \mathrm{M}$ với V mL
 
 ## Chuong 2. NLLROESIN VA SULFUR
 
-## Biii
-
-## 3
-
-## ĐƠN CHẤT NITROGEN
+## Bài 3. ĐƠN CHẤT NITROGEN
 
 3.1. Ở trạng thái tự nhiên, nitrogen
 A. tồn tại ở dạng đơn chất và hợp chất.
@@ -331,7 +303,8 @@ b) Tại sao nitrogen phản ứng được với nhiều kim loại, nhưng tro
 3.9. Xác định cụm từ phù hợp trong các ô từ (1) đến (7) để hoàn thành chu trình của nitrogen trong tự nhiên.
 ![](https://cdn.mathpix.com/cropped/2025_10_23_ae7aef68fb3b41082d29g-06.jpg?height=792&width=1066&top_left_y=996&top_left_x=2112)
 
-[^0]4.1. Liên kết trong phân tử $\mathrm{NH}_{3}$ là
+## Bài 4. AMMONIA VÀ MỘT SỐ HỢP CHẤT AMMONIUM
+4.1. Liên kết trong phân tử $\mathrm{NH}_{3}$ là
 A. liên kết cộng hoá trị phân cực.
 B. liên kết ion.
 C. liên kết cộng hoá trị không phân cực.
@@ -429,12 +402,7 @@ Phản ứng tổng hợp $\mathrm{NH}_{3}: \quad \mathrm{N}_{2}+3 \mathrm{H}_{2
 Để sản xuất khí ammonia, nếu lấy $841,7 \mathrm{~m}^{3}$ không khí (chựa $21,03 \% \mathrm{O} 78,02 \% \mathrm{~N}_{2}$, còn lại là khí hiếm theo thể tích), thì cần phải lấy bao nhiêu $\mathrm{m}^{3}$ khí methane và bao nhiêu $\mathrm{m}^{3}$ hơi nước để có đủ lượng $\mathrm{N}_{2}$ và $\mathrm{H}_{2}$ theo tỉ lệ $1: 3$ về thể tích dùng cho phản ứng tổng hợp ammonia. Giả thiết các phản ứng (1), (2) đều xảy ra hoàn toàn và các thể tích khí đo ở cùng điều kiện.
 4.17. Hợp chất có công thức hoá học $\mathrm{NH}_{4} \mathrm{NO}_{3}$ được giới chức quốc gia Lebanon xác định là nguyên nhân gây ra vụ nổ thảm khốc ở thủ đô Beirut vào ngày 04/08/2020. Tia lửa hàn trong quá trình sửa chữa nhà kho có thể đã làm 2750 tấn $\mathrm{NH}_{4} \mathrm{NO}_{3}$ cất trữ phát nổ, phá huỷ nhiều nhà cửa, dẫn đến nhiều người thiệt mạng. Hãy giải thích vì sao $\mathrm{NH}_{4} \mathrm{NO}_{3}$ có khả năng phát nổ.
 
-[^2]
-## Biii <br> 5
-
-## MỘT SỐ HỢP CHẤT
-
-VỚI OXYGEN CỦA NITROGEN
+## Bài 5. MỘT SỐ HỢP CHẤT VỚI OXYGEN CỦA NITROGEN
 5.1. Hiện tượng mưa acid
 A. là hiện tượng sẵn có trong tự nhiên.
 B. xảy ra do sự bốc hơi của nước rồi ngưng tụ.
@@ -503,7 +471,7 @@ b) Tại sao hỗn hợp lỏng ( $\mathrm{N}_{2} \mathrm{O}_{4}$ và $\mathrm{N
 
 [^3]![](https://cdn.mathpix.com/cropped/2025_10_23_ae7aef68fb3b41082d29g-10.jpg?height=390&width=339&top_left_y=118&top_left_x=1961)
 
-## SULFUR VÀ SULFUR DIOXIDE
+## Bài 6. SULFUR VÀ SULFUR DIOXIDE
 
 6.1. Phát biểu nào sau đây không đúng?
 A. Lưu huỳnh là một nguyên tố phi kim, chỉ có tính oxi hoá.
@@ -572,10 +540,7 @@ b) Thực tế, do lợi ích kinh tế trước mắt mà nhiều tổ chức, 
 | (2) Bảo quản trái cây trong tủ lạnh. | $?$ | $?$ |
 | (3) Kĩ thuật đóng gói bổ sung khí MAP. | $?$ | $?$ |
 
-## SULFURIC ACID
-
-## VÀ MUỐI SULFATE
-
+## Bài 7. SULFURIC ACID VÀ MUỐI SULFATE
 7.1. Kim loại nào sau đây không tác dụng với dung dịch $\mathrm{H}_{2} \mathrm{SO}_{4}$ loãng?
 A. Al.
 B. Zn.
@@ -632,7 +597,6 @@ a) Vẽ đồ thị biểu diễn độ tan của ba muối theo nhiệt độ.
 b) Độ tan của các chất rắn trong nước thường tăng theo nhiệt độ. Có nhận xét gì về độ tan của ba chất? Chất có độ tan lớn là ở nhiệt độ nào?
 c) Chất nào có độ tan lớn nhất ở $30^{\circ} \mathrm{C}$ và $90^{\circ} \mathrm{C}$ ?
 
-[^5]
 ## ÔN TẬP CHUONG 2
 
 OT2.1. Điều nào sau đây đúng về tính chất hoá học của $\mathrm{N}_{2}$ ?
@@ -682,9 +646,7 @@ OT2.9*. Đặt hai cốc (A), (B) có khối lượng bằng nhau lên 2 đĩa c
 
 ## Chưong 3. ĐAI CUONE HOÁ HOC HÜU CO
 
-## HỢP CHẤT HỮU CƠ
-
-VÀ HOÁ HỌC HỮU CƠ
+### Bài 8. HỢP CHẤT HỮU CƠ VÀ HOÁ HỌC HỮU CƠ
 8.1. Trong thành phần phân tử hợp chất hữu cơ phải luôn có nguyên tố
 A. carbon và hydrogen.
 B. carbon.
@@ -735,7 +697,7 @@ D. carbon và nitrogen.
 
 [^8]![](https://cdn.mathpix.com/cropped/2025_10_23_ae7aef68fb3b41082d29g-16.jpg?height=389&width=344&top_left_y=146&top_left_x=1938)
 
-## PHƯƠNG PHÁP TÁCH VÀ TINH CHẾ HỢP CHẤT HỮU CƠ
+## Bài 9. PHƯƠNG PHÁP TÁCH VÀ TINH CHẾ HỢP CHẤT HỮU CƠ
 
 9.1. Phương pháp chưng cất dùng để tách các chất
 A. có nhiệt độ sôi khác nhau.
@@ -809,7 +771,7 @@ a) Chất nào bị hấp phụ mạnh nhất? Chất nào bị hấp phụ kém
 b) Chất nào hoà tan tốt hơn trong dung môi?
 ![](https://cdn.mathpix.com/cropped/2025_10_23_ae7aef68fb3b41082d29g-18.jpg?height=389&width=312&top_left_y=73&top_left_x=411)
 
-## CÔNG THỨC PHÂN TƯ HỢP CHẤT HỮU CƠ
+## Bài 10. CÔNG THỨC PHÂN TƯ HỢP CHẤT HỮU CƠ
 
 10.1. Acetylene là một hydrocarbon được dùng làm nhiên liệu trong đèn xì oxy-acetylene (khi tác dụng với oxygen) để hàn hay cắt kim loại. Hãy lập công thức phân tử của acetylene, biết kết quả phân tích nguyên tố của acetylene có $7,69 \% \mathrm{H}$ về khối lượng. Phân tử khối của acetylene gấp 13 lần phân tử khối của hydrogen.
 10.2. Buta-1,3-diene là một hydrocarbon được dùng nhiều nhất trong sản xuất cao su. Hãy lập công thức phân tử của buta-1,3-diene, biết kết quả phân tích nguyên tố của buta-1,3-diene có $\frac{\% \mathrm{C}}{\% \mathrm{H}}=8$. Phân tử khối của của buta-1,3-diene gấp 1,6875 phân tử khối của oxygen.
@@ -836,7 +798,7 @@ Xác định công thức phân tử của (A) và (B). Biết mảnh [ $\mathrm
 
 [^12]![](https://cdn.mathpix.com/cropped/2025_10_23_ae7aef68fb3b41082d29g-20.jpg?height=399&width=349&top_left_y=173&top_left_x=342)
 
-## CẤU TAO HOÁ HỌC HỢP CHẤT HỮU CƠ
+## Bài 11. CẤU TAO HOÁ HỌC HỢP CHẤT HỮU CƠ
 
 11.1. Phát biểu nào sau đây là đúng?
 A. Đồng đẳng là những chất có tỉ lệ thành phần nguyên tử trong phân tử giống nhau.
@@ -972,11 +934,7 @@ b) Dựa vào phổ IR bên ${ }^{(*)}$, hãy cho biết có thể xác định 
 
 ## Chưong 4. HYDROCARBON
 
-## Biii
-
-12
-
-## ALKANE
+## Bài 12. ALKANE
 
 12.1. Theo ước tính, trung bình mỗi ngày một con bò "ợ" vào bầu khí quyển khoảng $250 \mathrm{~L}-300 \mathrm{~L}$ một chất khí có khả năng gây hiệu ứng nhà kính. Khí đó là
 A. $\mathrm{O}_{2}$.
@@ -1062,7 +1020,7 @@ b) Trong thực tế, xăng không chỉ gồm 2,2,4-trimethylpentane và heptan
 12.22*. Thế nào là xăng RON 92 ? RON 95 ? Xăng nào có chỉ số octane cao hơn?
 12.23*. Tính chỉ số octane của xăng E5 và xăng E10.
 
-## HYDROCARBON KHÔNG NO
+## Bài 13. HYDROCARBON KHÔNG NO
 
 13.1. Biểu đồ dưới đây thể hiện mối tương quan giữa nhiệt độ sôi và số nguyên tử carbon trong phân tử alkene.
 ![](https://cdn.mathpix.com/cropped/2025_10_23_ae7aef68fb3b41082d29g-26.jpg?height=463&width=920&top_left_y=639&top_left_x=685)
@@ -1152,7 +1110,7 @@ Viết các phương trình phản ứng minh hoạ.
 ![](https://cdn.mathpix.com/cropped/2025_10_23_ae7aef68fb3b41082d29g-27.jpg?height=390&width=1262&top_left_y=1380&top_left_x=1938)
 ![](https://cdn.mathpix.com/cropped/2025_10_23_ae7aef68fb3b41082d29g-27.jpg?height=371&width=1363&top_left_y=1792&top_left_x=1888)
 
-## ARENE (HYDROCARBON THOM)
+## Bài 14. ARENE (HYDROCARBON THOM)
 
 14.1. Công thức phân tử nào dưới đây không thể là của một arene?
 A. $\mathrm{C}_{7} \mathrm{H}_{8}$.
@@ -1384,10 +1342,7 @@ OT4.14*. Giải thích tại sao $m$-xylene tham gia phản ứng nitro hoá nha
 
 ## Chưong 5. DẪN XUẤT HALOGEN ALCOHOL - PHENOL
 
-Bait
-15
-
-## DẪN XUẤT HALOGEN
+## Bài 15. DẪN XUẤT HALOGEN
 
 15.1. Hợp chất thuộc loại dẫn xuất halogen của hydrocarbon là
 A. $\mathrm{HIO}_{4}$.
@@ -1496,7 +1451,7 @@ $\Delta$ Minh hoạ hướng phản ứng thế nhóm -OH vào halogen X
 Brit
 16
 
-## ALCOHOL
+## Bài 16. ALCOHOL
 
 16.1. Alcohol no, đơn chức, mạch hở có công thức chung là
 A. $\mathrm{C}_{\mathrm{n}} \mathrm{H}_{2 \mathrm{n}+1} \mathrm{OH}(\mathrm{n} \geq 1)$.
@@ -1634,7 +1589,7 @@ Cho biết nhiệt lượng nước nhận được $=$ khối lượng nước 
 Nhiệt lượng nước nhận được: $\mathrm{Q}=100 \times 4,18 \times(40-\mathrm{t})(\mathrm{J})$.
 Có phải tất cả nhiệt lượng do quá trình đốt cháy alcohol đều làm tăng nhiệt độ của nước không?
 
-Biri PHENOL
+## Bài 17. PHENOL
 17.1. Phenol là hợp chất có chứa vòng benzene, công thức cấu tạo của phenol là
 
 A.
@@ -1842,11 +1797,9 @@ OT5.11*. Hợp chất hữu cơ $(X)$ chứa vòng benzene, cho thông tin về 
 Biện luận để xác định cấu tạo phân tử hợp chất hữu cơ (X).
 
 [^19]
-## Chưong 6. HOP CHATY CARBONY
+## Chưong 6. HOP CHATY CARBONY (ALDEHYDE - KEHONE) - CARBOXYLIC ACID
 
-(ALDEHYDE - KEHONE) - CARBOXYLIC ACID
-
-## HỢP CHẤT CARBONYL (ALDEHYDE - KETONE)
+## Bài 18. HỢP CHẤT CARBONYL (ALDEHYDE - KETONE)
 
 18.1. Aldehyde no, đơn chức, mạch hở có công thức phân tử chung là
 A. $\mathrm{C}_{\mathrm{n}} \mathrm{H}_{2 \mathrm{n}} \mathrm{O}_{2}(\mathrm{n} \geq 1)$.
@@ -1961,7 +1914,7 @@ a) Hãy xác định công thức phân tử và viết công thức cấu tạo
 b) Gọi tên (X) theo danh pháp thay thế.
 
 [^20]
-## CARBOXYLIC ACID
+## Bài 19. CARBOXYLIC ACID
 
 19.1. Công thức tổng quát của carboxylic acid no, đơn chức, mạch hở là
 A. $\mathrm{C}_{\mathrm{n}} \mathrm{H}_{2 \mathrm{n}} \mathrm{O}_{2}(\mathrm{n} \geq 1)$.
@@ -2217,95 +2170,6 @@ OT6.17. Xác định công thức cấu tạo của hợp chất hữu cơ (E) d
 
 [^24]![](https://cdn.mathpix.com/cropped/2025_10_23_ae7aef68fb3b41082d29g-51.jpg?height=819&width=1139&top_left_y=132&top_left_x=498)
 
-## HUODKE DÂN GLÁ
-
-## Chưong 1. CÂN BẰNG HOÁ HOC
-
-## Bait
-
-## 1
-
-## KHÁl NIỆM
-
-VỀ CÂN BẰNG HOÁ HỌC
-1.1. Đáp án D.
-
-## 1.2. Đáp án D.
-
 OT6.18. Bạn Nam luôn chăm sóc răng miệng cẩn thận. Vì sợ bị sâu răng nên sau khi ăn cơm, ăn trái cây hay uống nước hoa quả, Nam liền đánh răng ngay. Tuy nhiên, nếu đánh răng ngay sau khi dùng nước trái cây thì sẽ gây hại cho răng. Làm sao để ăn trái cây và uống các loại nước trái cây hằng ngày mà ít gây tác hại nhất cho răng?
 Em hãy trả lời giúp bạn Nam những vấn đề đặt ra ở trên.
 OT6.19. Trên thị trường có những lọ măng, dưa chuột muối tuy để lâu nhưng lại không bị hỏng (trong thời hạn sử dụng). Em hãy giải thích lí do.
-1.3. a) Cân bằng chuyển dịch theo chiều thuận (chiều toả nhiệt).
-b) Cân bằng chuyển dịch theo chiều thuận (chiều làm giảm nồng độ của khí nitrogen).
-c) Cân bằng chuyển dịch theo chiều thuận (chiều làm giảm nồng độ của khí hydrogen).
-d) Cân bằng chuyển dịch theo chiều nghịch (chiều làm tăng áp suất của hệ).
-1.4. $K_{\mathrm{C}}=\frac{\left[\mathrm{NH}_{3}\right]^{2}}{\left[\mathrm{~N}_{2}\right] \times\left[\mathrm{H}_{2}\right]^{3}}$
-1.5. $K_{C}=\frac{0,6^{2}}{0,02 \times 2^{3}}=2,25$
-1.6. a) Cân bằng chuyển dịch theo chiều nghịch (chiều thu nhiệt)
-b) Cân bằng chuyển dịch theo chiều thuận (chiều làm giảm nồng độ của khí $\mathrm{SO}_{2}$ ).
-c) Cân bằng chuyển dịch theo chiều thuận (chiều làm giảm nồng độ của khí $\mathrm{O}_{2}$ ).
-d) Cân bằng chuyển dịch theo chiều thuận (chiều làm tăng nồng độ của $\mathrm{SO}_{3}$ ).
-1.7. $\mathrm{K}_{\mathrm{C}}=\frac{\left[\mathrm{SO}_{3}\right]^{2}}{\left[\mathrm{O}_{2}\right] \times\left[\mathrm{SO}_{2}\right]^{2}}$
-
-
-[^0]:    ${ }^{(*)}$ Nguồn: http://butane.chem.uiuc.edu/cyerkes/Chem104ACSpring2009/Genchemref/bondenergies.html
-
-[^1]:    ${ }^{(7)}$ Nguồn: http://nioeh.org.vn/vi/kham-va-phat-hien-benh-nghe-nghiep/nguy-co-nhiem-doc-amoniac-
-
-[^2]:    ${ }^{(*)}$ Nguồn: J. D. Cox, D. Harrop, A. J. Head, The standard enthalpy of formation of ammonium nitrate and of nitrate ion, J. Chem. Thermodynamic, 1979, Vol. 11, 811-814.
-
-[^3]:    ${ }^{(4)}$ Nguồn:
-    Martin S. Silberberg, Principles of General Chemistry (2013, third edition), The McGraw-Hill Companies, Inc., New York, USA.
-    https://webbook.nist.gov/cgi/cbook.cgi?ID=C10544726\&Mask=1E9F
-
-[^4]:    (') Nguồn: https://moh.gov.vn/web/phong-chong-benh-nghe-nghiep/thong-tin-hoat-dong/-/asset_publisher/ xjpQsFUZRw4q/content/nhiem-oc-thuy-ngan-nguy-hiem-the-nao-?inheritRedirect=false
-
-[^5]:    ${ }^{()}$Nguồn: https://www.sigmaaldrich.com/VN/en/support/calculators-and-apps/solubility-ta-
-    ble-compounds-water-temperature
-
-[^6]:    * Nguồn: https://webbook.nist.gov/cgi/cbook.cgi?Spec=C67561\&Index=1\&Type=IR\&Large=on
-
-[^7]:    ${ }^{()}$Nguồn: https://webbook.nist.gov/cgi/cbook.cgi?Spec=C64197\&Index=2\&Type=IR\&Large=on
-
-[^8]:    ${ }^{(1)}$ Nguồn: Y. R. Sharma, Elementary Organic Spectroscopy (2008), S. Chand \& Company PVT. LTD.
-    36
-
-[^9]:    ${ }^{()}$Nguồn: https://webbook.nist.gov/cgi/cbook.cgi?ID=C74828\&Mask=200
-
-[^10]:    (Nguồn: https://webbook.nist.gov/cgi/cbook.cgi?ID=C74851\&Mask=200
-    ${ }^{\text {(**) }}$ Nguồn: https://webbook.nist.gov/cgi/cbook.cgi?Spec=C60297\&Index =0\&type=Mass\&Large=on
-
-[^11]:    ${ }^{()}$Nguồn: https://webbook.nist.gov/cgi/cbook.cgi?ID=C50000\&Mask=200
-    (*) Nguồn: https://webbook.nist.gov/cgi/cbook.cgi?ID=C64186\&Mask=608
-
-[^12]:    ${ }^{(*)}$ Nguồn: https://webbook.nist.gov/cgi/cbook.cgi?Spec=C74851\&Index=0\&-
-    Type=Mass\&Large=on\&SVG=on
-    ${ }^{\text {(**) }}$ Nguồn: https://webbook.nist.gov/cgi/cbook.cgi?Spec=C115071\&Index=0\&Type=Mass\&Large=on
-
-[^13]:    () Nguồn: https://webbook.nist.gov/cgi/cbook.cgi?Spec=C56815\&Index=1\&Type=IR\&Large=on
-    (**)Nguồn: https://webbook.nist.gov/cgi/cbook.cgi?|D=C91203\&Mask=200
-
-[^14]:    ${ }^{\left({ }^{*}\right)}$ Nguồn: https://webbook.nist.gov/cgi/cbook.cgi?Spec=C64197\&Index=0\&Type=Mass\&Large=on
-    ${ }^{(* *)}$ Nguồn: https://webbook.nist.gov/cgi/inchi?Spec=C64197\&Index=2\&Type=IR\&Large=on
-
-[^15]:    ${ }^{(*)}$ Nguồn: https://webbook.nist.gov/cgi/cbook.cgi?ID=C111659\&Mask=200
-
-[^16]:    ${ }^{(*)}$ Nguồn: https://webbook.nist.gov/cgi/cbook.cgi?ID=C503173\&Mask=80
-
-[^17]:    (") Nguồn: https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_ Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Spectroscopy/Vibrational_ Spectroscopy/Infrared_Spectroscopy/Identifying_the_Presence_of_Particular_Groups
-
-[^18]:    ${ }^{()}$Nguồn: www.statista.com/statistics/global-phenol-market-volume.
-
-[^19]:    ${ }^{(*)}$ Nguồn: https://www.chemicalbook.com/SpectrumEN_100-51-6_ir1.htm
-    (")Nguồn: https://webbook.nist.gov/cgi/cbook.cgi?|D=C100516\&Mask=200
-
-[^20]:    ${ }^{(*)}$ Nguồn: https://webbook.nist.gov/cgi/cbook.cgi?Name=butanal\&Units=SI\&cMS=on
-
-[^21]:    ${ }^{(*)}$ Nguồn: Martin S. Silberberg, Principles of General Chemistry (2013, third edition), The McGraw-Hill Companies, Inc., New York, USA.
-
-[^22]:    ${ }^{(*)}$ Nguồn: L.G. Wade, Organic chemistry (2006, $6{ }^{\text {th }}$ Edition), Jr. Whitman college.
-
-[^23]:    ${ }^{(*)}$ Nguồn: L.G. Wade, Organic chemistry (2006, $6{ }^{\text {th }}$ Edition), Jr. Whitman college.
-
-[^24]:    ${ }^{(*)}$ Nguồn: Y. R. Sharma, Elementary Organic Spectroscopy (2008), S. Chand \& Company PVT. LTD.
-

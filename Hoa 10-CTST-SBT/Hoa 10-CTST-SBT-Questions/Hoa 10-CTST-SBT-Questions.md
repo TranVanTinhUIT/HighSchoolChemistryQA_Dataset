@@ -1,3 +1,5 @@
+## Bài 1. Nhập môn hóa học
+
 1.5. Hiện tượng nào sau đây là hiện tượng vật lí, hiện tượng nào là hiện tượng hoá học?
 a) Vào mùa hè, băng ở hai cực Trái Đất tan dần.
 b) Thổi hơi thở của chúng ta vào nước vôi trong làm nước vôi trong vẩn đục.
@@ -8,7 +10,7 @@ e) Đun nóng hỗn hợp gồm sắt và lưu huỳnh trong ống nghiệm. H�
 1.7. Thanh sắt được nung nóng, dát mỏng, kéo dài thành dây sắt. Sau đó tiếp tục nung nóng dây sắt thi thu được chất bột màu nâu. Hãy chỉ ra đâu là hiện tượng vật lí, đâu là hiện tượng hoá học.
 1.8. Hãy lập sơ đồ tư duy để hệ thống hoá kiến thức "Bài 1. Nhập môn hoá học" trong SGK.
 
-## Dữ kiện sử dụng cho bài tập 1.9 và 1.10.
+### Dữ kiện sử dụng cho bài tập 1.9 và 1.10.
 
 Để nghiên cứu thành phần hoá học, hoạt tính kháng oxi hoá và hoạt tính kháng khuẩn của tinh dầu vỏ chanh, các nhà nghiên cứu đã thực hiện các công việc sau:
 
@@ -20,9 +22,7 @@ e) Đun nóng hỗn hợp gồm sắt và lưu huỳnh trong ống nghiệm. H�
 1.10. Hãy chỉ rõ các bước nghiên cứu trong nghiên cứu trên tương ứng với những bước nào trong phương pháp nghiên cứu hoá học.
 
 
-## Chương 1. CẤU TẬO NGUYÊN TỬ
-
-## 2 THÀNH PHẦN CỦA NGUYÊN TỬ
+## Bài 2. THÀNH PHẦN CỦA NGUYÊN TỬ
 
 2.1. Phát biểu nào dưới đây không đúng?
 A. Nguyên tử được cấu thành từ các hạt cơ bản là proton, neutron và electron.
@@ -104,7 +104,7 @@ Cho biết công thức tính thể tích hình cầu là $V=\frac{4 \pi r^{3}}{
 2.24*. Nguyên tử Fe ở $20^{\circ} \mathrm{C}$ có khối lượng riêng là $7,87 \mathrm{~g} / \mathrm{cm}^{3}$. Với giả thiết này, tinh thể nguyên tử Fe là những hình cầu chiếm $75 \%$ thể tích tinh thể, phần còn lại là những khe rỗng giữa các quả cầu. Cho biết khối lượng nguyên tử của Fe là 55,847 . Tính bán kính nguyên tử gần đúng của Fe .
 $2.25^{*}$. Nguyên tử kẽm $(\mathrm{Zn})$ có nguyên tử khối bằng 65 u. Thực tế hầu như toàn bộ khối lượng nguyên tử tập trung ở hạt nhân, với bán kính $\mathrm{r}=2 \times 10^{-15} \mathrm{~m}$. Khối lượng riêng của hạt nhân nguyên tử kẽm là bao nhiêu tấn trên một centimet khối (tấn/ $\mathrm{cm}^{3}$ )?
 
-## 3 NGUYÊN TỐ HOÁ HỌC
+## Bài 3. NGUYÊN TỐ HOÁ HỌC
 
 3.1. Cho các phát biểu sau:
 (1) Trong một nguyên tử luôn có số proton bằng số electron và bằng số đơn vị điện tích hạt nhân.
@@ -198,7 +198,7 @@ Giải thích.
 3.14*. Oxide của kim loại $\mathrm{M}\left(\mathrm{M}_{2} \mathrm{O}\right)$ được ứng dụng rất nhiều trong ngành hoá chất như sản xuất xi măng, sản xuất phân bón, ... Trong sản xuất phân bón, chúng ta thường thấy $\mathrm{M}_{2} \mathrm{O}$ có màu trắng, tan nhiều trong nước và là thành phần không thể thiếu cho mọi loại cây trồng. Tổng số hạt cơ bản trong phân tử $X$ có công thức $\mathrm{M}_{2} \mathrm{O}$ là 140 , trong phân tử $X$ có tổng số hạt mang điện nhiều hơn số hạt không mang điện là 44. Xác định công thức phân tử của $\mathrm{M}_{2} \mathrm{O}$.
 3.15*. Hợp chất $X Y_{2}$ phổ biến trong sử dụng để làm cơ chế đánh lửa bằng bánh xe trong các dạng súng cổ. Mỗi phân tử $X Y_{2}$ có tổng các hạt proton, neutron, electron bằng 178; trong đó, số hạt mang điện nhiều hơn số hạt không mang điện là 54, số hạt mang điện của $X$ ít hơn số hạt mang điện của $Y$ là 12. Hãy xác định kí hiệu hoá học của $\mathrm{X}, \mathrm{Y}$.
 
-## Bai <br> 4 <br> CẤU TRÚC LỚP VỎ ELECTRON CỦA NGUYÊN TỬ
+## Bài 4. CẤU TRÚC LỚP VỎ ELECTRON CỦA NGUYÊN TỬ
 
 4.1. Theo mô hình nguyên tử Rutherford - Bohr, vị trí nào trong số các vị trí $\mathrm{A}, \mathrm{B}$, $\mathrm{C}, \mathrm{D}$ trong hình sau mà electron không xuất hiện?
 ![](https://cdn.mathpix.com/cropped/2025_10_23_883c4b146e2332109fcdg-09.jpg?height=253&width=938&top_left_y=861&top_left_x=523)
@@ -272,7 +272,7 @@ D. phi kim và kim Ioại.
 4.18*. A được dùng để chế tạo đèn có cường độ sáng cao. Nguyên tử A có electron ở phân lớp 3d chỉ bằng một nửa phân lớp 4s. Viết cấu hình electron của nguyên tử $A$ và tên nguyên tố $A$.
 4.19*. Nguyên tố $A$ có cấu hình electron lớp ngoài cùng là $4 \mathrm{~s}^{1}$. Nguyên tố $B$ có phân lớp cuối là $3 p^{5}$. Viết cấu hình electron đầy đủ của $A, B$. Xác định tên $A, B$.
 
-## ÔN TẬP CHƯONG 1
+## ÔN TẬP CHƯONG 1: CẤU TẬO NGUYÊN TỬ
 
 OT1.1. Nguyên tử là phần tử nhỏ nhất của chất và
 A. không mang điện.
@@ -316,9 +316,7 @@ b) Xác định công thức phân tử của $\mathrm{MX}_{2}$.
 
 OT1.10*. Hợp chất có công thức phân tử $\mathrm{M}_{2} \mathrm{X}$ (được ứng dụng trong sản xuất xi măng, phân bón) có tổng số hạt là 140. Trong đó, số hạt mang điện nhiều hơn số hạt không mang điện là 44. Số khối của nguyên tử M lớn hơn số khối của nguyên tử $X$ là 23. Tổng số hạt trong nguyên từ $M$ nhiều hơn trong nguyên tử $X$ là 34. Viết cấu hình electron của các nguyên tử $M$ và $X$. Viết công thức phân tử của hợp chất $\mathrm{M}_{2} \mathrm{X}$.
 
-## Chương 2. BẢNG TUẨN HOÀN CÁC NGUYÊN TỐ HOÁ HOC
-
-## Bai <br> 5 CẤU TẠO BẢNG TUẦN HOÀN CÁC NGUYÊN TỐ HOÁ HỌC
+## Bài 5. CẤU TẠO BẢNG TUẦN HOÀN CÁC NGUYÊN TỐ HOÁ HỌC
 
 5.1. X là nguyên tố rất cần thiết cho sự chuyển hoá của calcium, phosphorus, sodium, potassium, vitamin $C$ và các vitamin nhóm B. Ơ trạng thái cơ bản, cấu hình electron lớp ngoài cùng của nguyên tử X là $3 \mathrm{~s}^{2}$. Số hiệu nguyên tử của nguyên tố X là
 A. 12 .
@@ -374,7 +372,7 @@ b) Xác định vị trí của $X, Y$ trong bảng tuần hoàn và tên nguyê
 5.14*. $X$ và $Y$ là hai nguyên tố thuộc chu kì nhỏ, thuộc hai nhóm $A$ kế tiếp nhau trong bảng tuần hoàn. Ở trạng thái đơn chất, $X$ và $Y$ phản ứng được với nhau. Tổng số proton trong hạt nhân nguyên tử của $X$ và $Y$ là 23. Biết rằng $X$ đứng sau $Y$ trong bảng tuần hoàn. Xác định tên nguyên tố $X, Y$.
 5.15*. Hoà tan hoàn toàn 6,645 gam hỗn hợp muối chloride của hai kim loại kiềm thuộc hai chu kì kế tiếp nhau vào nước được dung dịch $X$. Cho toàn bộ dung dịch $X$ tác dụng hoàn toàn với dung dịch $\mathrm{AgNO}_{3}(\mathrm{du})$, thu được 18,655 gam kết tủa. Xác định 2 kim loại kiềm.
 
-## XU HUỚNG BIẾN ĐỔI MỘT SỐ TÍNH CHẤT CỦA NGUYÊN TỬ CÁC NGUYÊN TỐ, THÀNH PHẦN VÀ MỘT SỐ TÍNH CHẤT CỦA HỢ CHẤT TRONG MỘT CHU Kİ VÀ NHÓM
+## Bài 6. XU HUỚNG BIẾN ĐỔI MỘT SỐ TÍNH CHẤT CỦA NGUYÊN TỬ CÁC NGUYÊN TỐ, THÀNH PHẦN VÀ MỘT SỐ TÍNH CHẤT CỦA HỢ CHẤT TRONG MỘT CHU Kİ VÀ NHÓM
 
 6.1. Dãy nguyên tố nào sau đây sắp xếp theo chiều tăng dần của bán kính nguyên tử?
 A. Be, F, O, C, Mg.
@@ -435,7 +433,7 @@ c) Quan hệ giữa sự biến đổi độ âm điện và tính phi kim của
 6.14. Viết phương trình phản ứng của các chất sau với nước (nếu có): $\mathrm{Na}_{2} \mathrm{O}, \mathrm{SO}_{3}$, $\mathrm{Cl}_{2} \mathrm{O}_{7}, \mathrm{CO}_{2}, \mathrm{CaO}, \mathrm{N}_{2} \mathrm{O}_{5}$. Nhận xét về tính base, tính acid của các sản phẩm tạo thành.
 6.15*. Dựa vào Hình 6.1 và Bảng 6.1 trong SGK, hãy vẽ đồ thị hoặc biểu đồ đối với hai đại lượng bán kính nguyên tử và độ âm điện trong bảng số liệu trên. Quan sát và cho biết hai đại lượng này biến thiên như thế nào. Giải thích.
 
-## ĐINH LUẬT TUẦN HOÀN Ý NGHĨA CỦA BẢNG TUẦN HOÀN CÁC NGUYÊN TỐ HOÁ HỌC
+## Bài 7. ĐINH LUẬT TUẦN HOÀN Ý NGHĨA CỦA BẢNG TUẦN HOÀN CÁC NGUYÊN TỐ HOÁ HỌC
 
 7.1. Cấu hình electron nguyên tử iron: $[\mathrm{Ar}] 3 \mathrm{~d}^{6} 4 \mathrm{~s}^{2}$. Iron ở
 A. ô 26, chu kì 4, nhóm VIIIA.
@@ -497,7 +495,7 @@ b) $X$ là nguyên tố nào?
 7.10*. Oxide cao nhất của một nguyên tố $R$ chứa $72,73 \%$ oxygen. Tuy không phải là khí quá độc nhưng với nồng độ lớn thì sẽ làm giảm nồng độ oxygen trong không khí, gây ra các tác hại như mệt mỏi, khó thở, kích thích thần kinh, tăng nhịp tim và các rối loạn khác. Hợp chất khí với hydrogen chứa $75 \%$ nguyên tố đó. Hợp chất này thường được sử dụng làm nhiên liệu cho các lò nướng, nhà cửa, máy nước nóng, lò nung, xe ô tô. Viết công thức oxide cao nhất và hợp chất khí với hydrogen của nguyên tố $R$.
 
 
-## ÔN TẬP CHƯONG 2
+## ÔN TẬP CHƯONG 2: BẢNG TUẨN HOÀN CÁC NGUYÊN TỐ HOÁ HOC
 
 OT2.1. Sắt (iron) là vật liệu dùng làm bộ khung cho các công trình xây dựng, các khung giàn cho các loại cầu vượt, cầu bắc qua sông, cầu đi bộ, ... Nguyên tố sắt nằm ở ô 26 trong bảng tuần hoàn. Cấu hình electron của nguyên tử iron là
 A. $1 s^{2} 2 s^{2} 2 p^{6} 3 s^{2} 3 p^{6} 3 d^{6} 4 s^{2}$.
@@ -536,11 +534,7 @@ OT2.9*. Trong sản xuất thịt chế biến sẵn, người ta thường bổ
 
 OT2.10*. Có hai nguyên tố $X, Y$ thuộc cùng nhóm và ở hai chu kì liên tiếp, tổng số đơn vị điện tích hạt nhân của $X$ và $Y$ là 58. Trong đó, một nguyên tố đóng vai trò quan trọng đối với hệ thần kinh, đặc biệt ở người già thiếu chất này dễ bị suy nhược thần kinh, trí nhớ kém, tinh thần không ổn định, đau đầu. Oxide của nguyên tố còn lại nhờ tính ổn định nhiệt cao nên được ứng dụng nhiều trong ngành công nghiệp gốm sứ, thuỷ tinh và quang học. Xác định $\mathrm{X}, \mathrm{Y}$.
 
-## Chương 3. LIÊN KẾT HOÁ HỌC
-
-## Bai
-
-## 8 QUY TẮC OCTET
+## Bài 8. QUY TẮC OCTET
 
 8.1. Vì sao các nguyên tử lại liên kết với nhau thành phân tử?
 A. Để mỗi nguyên tử trong phân tử đạt được cơ cấu electron ổn định, bền vững.
@@ -585,7 +579,7 @@ D. $\mathrm{BF}_{3}$.
 8.9. Em hãy nêu tên và công thức hoá học của 1 chất ở thể rắn, 1 chất ở thể lỏng và 1 chất ở thể khí (trong điều kiện thường), trong đó nguyên tử oxygen đạt được cấu hình bền của khí hiếm neon.
 8.10. Potassium iodide (KI) được sử dụng như một loại thuốc long đờm, giúp làm lỏng và phá vỡ chất nhầy trong đường thở, thường dùng cho các bệnh nhân hen suyễn, viêm phế quản mãn tính. Trong trường hợp bị nhiễm phóng xạ, KI còn giúp ngăn tuyến giáp hấp thụ iodine phóng xạ, bảo vệ và giảm nguy cơ ung thư tuyến giáp. Trong phân tử KI , các nguyên tử K và I đều đã đạt được cơ cấu bền của khí hiếm gần nhất. Đó lần lượt là những khí hiếm nào?
 
-## Baii 9 LIÊN KẾT ION
+## Bài 9. LIÊN KẾT ION
 
 9.1. Điều nào dưới đây đúng khi nói về ion $\mathrm{S}^{2-}$ ?
 A. Có chứa 18 proton.
@@ -645,7 +639,7 @@ Trình bày cách xác định các chất $X, Y, Z$.
 9.15. Vì sao các hợp chất ion thường tồn tại ở trạng thái rắn và cứng trong điều kiện thường, nhưng lại giòn, dễ vỡ?
 9.16. Vì sao nói sodium chloride có cấu trúc mạng tinh thể kiểu lập phương tâm diện?
 
-## LIÊN KẾT CộNG HOÁ TRỊ
+## Bài 10. LIÊN KẾT CộNG HOÁ TRỊ
 
 10.1. Trong phân tử ammonia $\left(\mathrm{NH}_{3}\right)$, số cặp electron chung giữa nguyên tử nitrogen và các nguyên tử hydrogen là
 A. 3 .
@@ -759,9 +753,7 @@ b) Nhận xét độ tan của carbon dioxide trong nước theo nhiệt độ d
 c) Nước giải khát có gas là gi? Vì sao người ta thường ướp lạnh các loại nước giải khát có gas trước khi sử dụng?
 d) Vì sao trong những ngày hè nóng bức, cá thường phải ngoi lên mặt nước để thở, trong khi vào mùa lạnh, điều này không xảy ra?
 
-## Bai <br> 11
-
-## LIÊN KẾT HYDROGEN VÀ TƯƠNG TÁC VAN DER WAALS
+## Bài 11. LIÊN KẾT HYDROGEN VÀ TƯƠNG TÁC VAN DER WAALS
 
 11.1. Hợp chất nào sau đây tạo được liên kết hydrogen liên phân tử?
 A. $\mathrm{H}_{2} \mathrm{~S}$.
@@ -815,7 +807,7 @@ b) Nhận xét nhiệt độ sôi của các hợp chất với hydrogen của c
 11.15*. So sánh nhiệt độ nóng chảy và nhiệt độ sôi của pentane ( $\mathrm{CH}_{3} \mathrm{CH}_{2} \mathrm{CH}_{2} \mathrm{CH}_{2} \mathrm{CH}_{3}$ ) và neopentane $\left(\left(\mathrm{CH}_{3}\right)_{4} \mathrm{C}\right)$. Giải thích nguyên nhân sự khác biệt trên.
 11.16*. Giải thích vì sao tetrachloromethane ( $\mathrm{CCl}_{4}$ ) tuy là phân tử không cực nhưng có nhiệt độ sôi cao hơn trichloromethane $\left(\mathrm{CHCl}_{3}\right)$ là phân tử có cực.
 
-## ÔN TẬP CHƯONG 3
+## ÔN TẬP CHƯONG 3: LIÊN KẾT HOÁ HỌC
 
 OT3.1. Ion nào sau đây có cấu hình electron của khí hiếm helium?
 A. $\mathrm{Mg}^{2+}$.
@@ -861,9 +853,7 @@ b) Giải thích vì sao giá trị năng lượng liên kết tăng theo thứ 
 
 OT3.10. Ethane $\left(\mathrm{C}_{2} \mathrm{H}_{6}\right)$ và fluoromethane $\left(\mathrm{CH}_{3} \mathrm{~F}\right)$ có kích thước tương đương nhau và đều có 18 electron. Như vậy khả năng hình thành các lưỡng cực tạm thời và lưỡng cực cảm ứng ở cả hai phân tử là như nhau dẫn đến nhiệt độ sôi của chúng phải tương tự nhau. Tuy nhiên, $\mathrm{C}_{2} \mathrm{H}_{6}$ có nhiệt độ sôi là $-89,0^{\circ} \mathrm{C}$ thấp hơn so với $\mathrm{CH}_{3} \mathrm{~F}$ là $-78,3^{\circ} \mathrm{C}$. Giải thích.
 
-## Chưong 4. PHÁN ÚNG OXI HOÁ - KHỦ
-
-## Baii <br> 12 <br> PHẢN ÚNG OXI HOÁ - KHỦ VÀ ÚNG DỤNG TRONG CUỘC SỐNG
+## Bài 12. PHẢN ÚNG OXI HOÁ - KHỦ VÀ ÚNG DỤNG TRONG CUỘC SỐNG
 
 12.1. Số oxi hoá của nguyên tử $S$ trong hợp chất $S O_{2}$ là
 A. +2 .
@@ -1001,7 +991,7 @@ b) Xác định công thức của iron oxide.
 a) Hãy viết phương trình hoá học của phản ứng.
 b) Khi chuẩn độ 25 g huyết tương máu của một lái xe cần dùng 20 mL dung dịch $\mathrm{K}_{2} \mathrm{Cr}_{2} \mathrm{O}_{7} 0,01 \mathrm{M}$. Người lái xe đó có vi phạm luật hay không? Tại sao? Giả sử rằng trong thí nghiệm trên chỉ có ethanol tác dụng với $\mathrm{K}_{2} \mathrm{Cr}_{2} \mathrm{O}_{7}$.
 
-## ÔN TẬP CHƯONG 4
+## ÔN TẬP CHƯONG 4: PHÁN ÚNG OXI HOÁ - KHỦ
 
 OT4.1. Sản xuất gang trong công nghiệp bằng cách sử dụng khí CO khử $\mathrm{Fe}_{2} \mathrm{O}_{3}$ ở nhiệt độ cao theo phản ứng sau:
 
@@ -1122,11 +1112,7 @@ OT4.15. Cho $1,12 \mathrm{~g}$ kim loại X tác dụng với dung dịch sulfur
 a) Viết phản ứng và cân bằng phương trình hoá học theo phương pháp thăng bằng electron.
 b) Xác định kim loại $X$.
 
-## Chuong 5. NĂNG LUỌNG HOÁ HỌC
-
-## Bai <br> 13
-
-## ENTHALPY TẠO THÀNH VÀ BIẾN THIÊN ENTHALPY CỦA PHẢN ỨNG HOÁ HỌC
+## Bài 13. ENTHALPY TẠO THÀNH VÀ BIẾN THIÊN ENTHALPY CỦA PHẢN ỨNG HOÁ HỌC
 
 13.1. Cho phương trình nhiệt hoá học của phản ứng:
 $2 \mathrm{H}_{2}(g)+\mathrm{O}_{2}(g) \rightarrow 2 \mathrm{H}_{2} \mathrm{O}(l)$
@@ -1263,7 +1249,7 @@ c) Ammonia ( $\mathrm{NH}_{3}$ ), biết rằng sự tạo thành $2,5 \mathrm{~
 d) Phản ứng nhiệt phân đá vôi $\left(\mathrm{CaCO}_{3}\right)$, biết rằng đề thu được $11,2 \mathrm{~g}$ vôi $(\mathrm{CaO})$ phải cung cấp $6,94 \mathrm{kcal}$.
 13.20. Dựa vào Bảng 13.1, SGK trang 84, sắp xếp các oxide sau đây: $\mathrm{Fe}_{2} \mathrm{O}_{3}(s)$, $\mathrm{Cr}_{2} \mathrm{O}_{3}(s), \mathrm{Al}_{2} \mathrm{O}_{3}(s)$ theo thứ tự giảm dần độ bền nhiệt.
 
-## Bai <br> 14 <br> \section*{TÍNH BIẾN THIÊN ENTHANPY CỦA PHẢN ỨNG HOÁ HỌC}
+## Bài 14. TÍNH BIẾN THIÊN ENTHANPY CỦA PHẢN ỨNG HOÁ HỌC
 
 14.1. Trình bày cách tính enthalpy của phản ứng hoá học dựa vào năng lượng liên kết và dựa vào enthalpy tạo thành của các chất.
 14.2. Cho phản ứng tổng quát: $\mathrm{aA}+\mathrm{bB} \rightarrow \mathrm{mM}+\mathrm{nN}$. Hãy chọn các phương án tính đúng $\Delta_{\mathrm{r}} \mathrm{H}_{298}^{\circ}$ của phản ứng:
@@ -1396,7 +1382,7 @@ $$
 
 Tính biến thiên enthalpy của quá trình.
 
-## ÔN TẬP CHƯONG 5
+## ÔN TẬP CHƯONG 5: NĂNG LUỌNG HOÁ HỌC
 
 OT5.1. Tìm hiểu và giải thích 2 quá trình sau:
 a) Tại sao khi xoa cồn vào da, ta cảm thấy lạnh?
@@ -1535,11 +1521,7 @@ $$
 Tính nhiệt lượng toả ra khi đốt cháy hoàn toàn 1 bình gas 12 kg với tỉ lệ thể tích của propane : butane là $30: 70$ (thành phần khác không đáng kể) ở điều kiện chuẩn.
 c) Giả sử một hộ gia đình cần 6000 kJ nhiệt mỗi ngày, sau bao nhiêu ngày sẽ sử dụng hết 1 bình gas (với hiệu suất hấp thụ nhiệt khoảng $60 \%$ )?
 
-## Chương 6. TỐC ĐỘ PHẢN ÚNG HOÁ HỌC
-
-## 15
-
-## PHƯƠNG TRİNH TỐC ĐỘ PHẢN ÚNG VÀ HẰNG SỐ TỐC ĐỘ PHẢN ỨNG
+## Bài 15. PHƯƠNG TRİNH TỐC ĐỘ PHẢN ÚNG VÀ HẰNG SỐ TỐC ĐỘ PHẢN ỨNG
 
 15.1. Cho phương trình hoá học:
 $2 \mathrm{KMnO}_{4}(a q)+10 \mathrm{FeSO}_{4}(a q)+8 \mathrm{H}_{2} \mathrm{SO}_{4}(a q) \rightarrow 5 \mathrm{Fe}_{2}\left(\mathrm{SO}_{4}\right)_{3}(a q)+\mathrm{K}_{2} \mathrm{SO}_{4}(a q)+2 \mathrm{MnSO}_{4}(a q)+8 \mathrm{H}_{2} \mathrm{O}(l)$
@@ -1648,9 +1630,7 @@ b) Sau khoảng thời gian $\mathrm{t}(\mathrm{s})$, tốc độ tạo thành $
 
 Tính tốc độ trung bình của phản ứng trong khoảng thời gian trên.
 
-## 16
-
-## CÁC YẾU TỐ ẢNH HUỞNG ĐẾN TỐC ĐỘ PHẢN ÚNG HOÁ HỌC
+## Bài 16. CÁC YẾU TỐ ẢNH HUỞNG ĐẾN TỐC ĐỘ PHẢN ÚNG HOÁ HỌC
 
 16.1. Khi tăng nồng độ chất tham gia, thì
 A. tốc độ phản ứng tăng.
@@ -1773,7 +1753,7 @@ Bước 3: Để yên cốc trên giá cân. Cho các viên đá vôi vào cốc
 3. Nhận xét tốc độ phản ứng thay đổi thế nào theo thời gian. Giải thích.
 4. Vẽ biểu đồ biểu diễn khối lượng $\mathrm{CO}_{2}$ trong các thời điểm khác nhau.
 
-## ÔN TẬP CHƯONG 6
+## ÔN TẬP CHƯONG 6: TỐC ĐỘ PHẢN ÚNG HOÁ HỌC
 
 OT6.1. Phản ứng $2 \mathrm{NO}(\mathrm{g})+\mathrm{O}_{2}(\mathrm{~g}) \rightarrow 2 \mathrm{NO}_{2}(\mathrm{~g})$ có biểu thức tốc độ tức thời: $v=k \times \mathrm{C}_{\mathrm{NO}}^{2} \times \mathrm{C}_{\mathrm{O}_{2}}$. Nếu nồng độ của NO giảm 2 lần, giữ nguyên nồng độ oxygen, thì tốc độ sẽ
 A. giảm 2 lần.
@@ -1845,9 +1825,7 @@ OT6.9. Sự phân huỷ $\mathrm{H}_{2} \mathrm{O}_{2}$ theo phương trình ho�
 a) Tính tốc độ trung bình của phản ứng phân huỷ $\mathrm{H}_{2} \mathrm{O}_{2}$ theo thời gian.
 b) Tốc độ phản ứng thay đổi thế nào theo thời gian? Giải thích sự thay đổi đó.
 
-## Chuong 7. NGUYÊN TÓ NHÓM VIIA - HALOGEN
-
-## TÍNH CHẤT VẬT LÍ VÀ HOÁ HỌC CÁC ĐƠN CHẤT NHÓM VIIA
+## Bài 17. TÍNH CHẤT VẬT LÍ VÀ HOÁ HỌC CÁC ĐƠN CHẤT NHÓM VIIA
 
 17.1. Trong bảng tuần hoàn các nguyên tố hoá học, halogen thuộc nhóm
 A. IA.
@@ -1989,9 +1967,7 @@ $\mathrm{I}_{2}$ được nhận biết bằng hồ tinh bột, $\mathrm{I}_{2}$
 Dựa vào thể tích dung dịch $\mathrm{Na}_{2} \mathrm{~S}_{2} \mathrm{O}_{3}$ phản ứng, tính được dư lượng chlorine trong dung dịch mẫu.
 Tiến hành chuẩn độ 100 mL dung dịch mẫu bằng dung dịch $\mathrm{Na}_{2} \mathrm{~S}_{2} \mathrm{O}_{3} 0,01 \mathrm{M}$, thể tích $\mathrm{Na}_{2} \mathrm{~S}_{2} \mathrm{O}_{3}$ dùng hết $0,28 \mathrm{~mL}$ (dụng cụ chứa dung dịch chuẩn $\mathrm{Na}_{2} \mathrm{~S}_{2} \mathrm{O}_{3}$ là loại microburet 1 mL , vạch chia $0,01 \mathrm{~mL}$ ). Mẫu sản phẩm trên đủ tiêu chuẩn về dư lượng chlorine cho phép để xuất khẩu không? Giải thích.
 
-## 18
-
-## HYDROGEN HALIDE VÀ MỘT SỐ PHẢN ÚNG CỦA ION HALIDE
+## Bài 18. HYDROGEN HALIDE VÀ MỘT SỐ PHẢN ÚNG CỦA ION HALIDE
 
 18.1. Hydrogen halide có nhiệt độ sôi cao nhất là
 A. HI .
@@ -2091,7 +2067,7 @@ Nước biển từ biển và đại dương có độ mặn khoảng 3,5\% (đ
 a) Để khai thác được sản lượng 426500 tấn/ năm như hiện tại và 650 000/ năm (đến năm 2030) thì thể tích nước biển cần dẫn vào ruộng muối là bao nhiêu? (Tính toán nhằm cung cấp số liệu để tính diện tích ruộng muối, từ đó xây dựng quy trình sản xuất để đạt năng suất cao hơn, ...)
 b) Tính khối lượng ion chloride được khai thác từ nước biển hàng năm.
 
-## ÔN TẬP CHƯONG 7
+## ÔN TẬP CHƯONG 7: NGUYÊN TÓ NHÓM VIIA - HALOGEN
 
 OT7.1. Cấu hình electron nào của nguyên tử halogen?
 A. $1 s^{2} 2 s^{2} 2 p^{6}$.

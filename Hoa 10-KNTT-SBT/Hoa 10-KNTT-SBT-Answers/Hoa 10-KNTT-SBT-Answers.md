@@ -1,6 +1,4 @@
-## CHUONG <br> 1 CẤU TAO NGUYÊN TỬ
-
-Bài 1. THÀNH PHẦN CỦA NGUYÊN TỬ
+## Bài 1. THÀNH PHẦN CỦA NGUYÊN TỬ
 | 1.1. $B$ | 1.2. $B$ | $1.3 . C$ | $1.6 . B$ | $1.7 . A$ | $1.9 . D$ | $1.10 . C$ |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 
@@ -667,9 +665,7 @@ Ghép (I) và (II), ta được: $(68,5-\overline{\mathrm{M}}) \mathrm{y}=1,125$
 $0,019<\frac{1,125}{68,5-\overline{\mathrm{M}}}<0,032 \Rightarrow 26,92<\overline{\mathrm{M}}<36,79$.
 $\Rightarrow$ Hai kim loại kiềm thoả mãn đề bài là sodium (23) và potassium (39).
 
-## CHUONG 3 LIÊN KẾT HOÁ HỌC
-
-Bài 10. QUY TÁC OCTET
+## Bài 10. QUY TÁC OCTET
 | 10.1. B | 10.2. D | 10.3. A | 10.4. B | 10.5. C | 10.6. D | 10.7. B |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
@@ -859,7 +855,7 @@ $$
 
 - Giải thích: sự tăng nhiệt độ sôi từ $\mathrm{H}_{2} \mathrm{~S}$ đến $\mathrm{H}_{2} \mathrm{Te}$ là do khối lượng phân tử tăng lên. Nếu $\mathrm{H}_{2} \mathrm{O}$ chỉ có lực van der Waals giữa các phân tử thì nhiệt độ sôi của nó dự đoán vào khoảng $-80^{\circ} \mathrm{C}$. Tuy nhiên, nhiệt độ sôi của $\mathrm{H}_{2} \mathrm{O}$ là $100^{\circ} \mathrm{C}$, cao hơn nhiều, đó là vì phân tử $\mathrm{H}_{2} \mathrm{O}$ còn có liên kết hydrogen liên phân tử, làm cho liên kết giữa các phân tử $\mathrm{H}_{2} \mathrm{O}$ bền vững hơn.
 
-Bài 14. ÔN TẬP CHUƠNG 3
+## Bài 14. ÔN TẬP CHUƠNG 3
 | 14.1. B | $14.2 . \mathrm{D}$ | $14.3 . \mathrm{D}$ | $14.4 . \mathrm{C}$ | $14.5 . \mathrm{D}$ |
 | :--- | :--- | :--- | :--- | :--- |
 | $14.6 . \mathrm{A}$ | $14.7 . \mathrm{A}$ | $14.8 . \mathrm{C}$ | $14.9 . \mathrm{A}$ | $14.10 . \mathrm{B}$ |
@@ -913,7 +909,7 @@ b) Cấu tạo $X$ :
 ![](https://cdn.mathpix.com/cropped/2025_10_23_ee735750217b2aca435cg-31.jpg?height=277&width=385&top_left_y=1778&top_left_x=812)
 gồm liên kết $\mathrm{K}^{+}$và $\mathrm{ClO}_{3}^{-}$là liên kết ion; liên kết đơn $\mathrm{Cl}-\mathrm{O}$ và liên kết kép $\mathrm{Cl}=\mathrm{O}$ là các liên kết cộng hoá trị phân cực.
 
-Bài 15. PHẢN ỨNG OXI HOÁ - KHỦ
+## Bài 15. PHẢN ỨNG OXI HOÁ - KHỦ
 | $15.1 . \mathrm{B}$ | $15.2 . \mathrm{D}$ | $15.3 . \mathrm{A}$ | $15.4 . \mathrm{D}$ | $15.5 . \mathrm{C}$ | $15.6 . \mathrm{A}$ |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | $15.7 . \mathrm{B}$ | $15.8 . \mathrm{B}$ | $15.9 . \mathrm{C}$ | $15.10 . \mathrm{A}$ | $15.11 . \mathrm{B}$ | $15.12 . \mathrm{C}$ |
@@ -1187,8 +1183,6 @@ $$
 \end{aligned}
 $$
 
-## CHUONG 5 NĂNG LUỢNG HOÁ HỌC
-
 ## Bài 17. BIẾN THIÊN ENTHALPY TRONG PHẢN ÚNG HOÁ HỌC
 
 | 17.1. C | 17.2. C | $17.3 . \mathrm{C}$ | $17.4 . \mathrm{B}$ | $17.5 . \mathrm{B}$ | $17.6 . \mathrm{A}$ | $17.7 . \mathrm{B}$ | $17.8 . \mathrm{A}$ |
@@ -1430,9 +1424,7 @@ Giải hệ (I) và (II), ta được: $\mathrm{a}=0,025 ; \mathrm{b}=0,2$.
 $\Rightarrow$ Khối lượng $\mathrm{CH}_{3} \mathrm{OH}$ là: $32 \cdot 0,025=0,8(\mathrm{~g})$.
 $\Rightarrow$ Phần trăm tạp chất methanol trong X bằng $8 \%$.
 
-## CHUONG < 6 > TÓC ĐỘ PHẢN ÚNG
-
-Bài 19. TỐC ĐỘ PHẢN ÚNG
+## Bài 19. TỐC ĐỘ PHẢN ÚNG
 | 19.1. D | 19.2. A | 19.5. C | 19.6. D | 19.8. C |
 | :--- | :--- | :--- | :--- | :--- |
 | 19.9. B | 19.10. A | 19.18. C | 19.25. D |  |
@@ -1545,7 +1537,7 @@ Khối lượng cốc sau 1 phút là: $235,40-1,20=234,20(\mathrm{~g})$.
 Chư ý: Nhiệt tạo thành ra từ phản ứng $\mathrm{H}_{2}+\mathrm{O}_{2} \rightarrow 2 \mathrm{H}_{2} \mathrm{O}$ lại cung cấp năng lượng để phản ứng tiếp tục xảy ra.
 b) Bột kim loại là chất xúc tác, làm giảm năng lượng hoạt hoá của phản ứng, giúp phản úng xảy ra.
 
-Bài 20. ÔN TẬP CHƯƠNG 6
+## Bài 20. ÔN TẬP CHƯƠNG 6
 | 20.1. C | 20.3. C | 20.4. A | 20.5. C |
 | :--- | :--- | :--- | :--- |
 
@@ -1677,7 +1669,7 @@ $$
 
 Y là sodium chloride (chọn A ).
 
-Bài 23. ÔN TẬP CHƯƠNG 7
+## Bài 23. ÔN TẬP CHƯƠNG 7
 | 23.1. A | $23.2 . \mathrm{C}$ | $23.3 . \mathrm{B}$ | $23.4 . \mathrm{A}$ | $23.5 . \mathrm{D}$ | $23.6 . \mathrm{C}$ |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 23.7. C | $23.8 . \mathrm{D}$ | $23.9 . \mathrm{B}$ | $23.10 . \mathrm{A}$ | $23.11 . \mathrm{D}$ | $23.12 . \mathrm{B}$ |
@@ -1729,6 +1721,4 @@ Tổng hợp hai phản ứng xảy ra trong quá trình điện phân là:
 $$
 \mathrm{NaCl}+\mathrm{H}_{2} \mathrm{O} \xrightarrow{\text { dpdd }} \mathrm{NaClO}+\mathrm{H}_{2}
 $$
-
-## KẼT NỐI TRI THỨC <br> Vớl CUỘC SỐNG
 

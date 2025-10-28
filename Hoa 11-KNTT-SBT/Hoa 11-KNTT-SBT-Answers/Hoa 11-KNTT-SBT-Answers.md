@@ -1,10 +1,4 @@
-## Dhon 11 <br> DAP AN YA TUENC DKEN GLI
-
-Churong 1
-
-## CAN BANG HOA HOC
-
-## BAll. KHÁI NIỆM VỀ CÂN BẰNG HOÁ HOC
+## Bài 1. KHÁI NIỆM VỀ CÂN BẰNG HOÁ HOC
 
 | 1.1. B | 1.2. D | 1.3. B | 1.4. B | 1.5. C |
 | :---: | :---: | :---: | :---: | :---: |
@@ -72,7 +66,7 @@ a) Thêm HCl : Cân bằng chuyển dịch theo chiều làm giảm nồng độ
 b) Ngâm ống nghiệm vào cốc nước nóng: Cân bằng chuyển dịch theo chiều thuân (chiều thu nhiệt), dung dịch chuyển màu xanh.
 c) Thêm một vài giọt dung dịch $\mathrm{AgNO}_{3}: \mathrm{Ag}^{+}+\mathrm{Cl}^{-} \longrightarrow \mathrm{AgCl}$ (kết tủa trắng), nồng độ $\mathrm{Cl}^{-}$giảm, cân bằng chuyển dịch theo chiều nghịch, đủng dịch màu hồng.
 
-## BAI 2. CÂN BÀNG TRONG DUNG DICH NUÚC
+## Bài 2. CÂN BÀNG TRONG DUNG DICH NUÚC
 
 | 2.1. A | 2.2. D | 2.3. C | 2.4. A | 2.5. C |
 | :--- | :--- | :--- | :--- | :--- |
@@ -150,7 +144,7 @@ Số mol HCl dư $=$ số $\mathrm{mol} \mathrm{NaOH}=1,02 \cdot 10^{-3} \mathrm
 Số mol HCl phản ứng với $\mathrm{NH}_{3}=$ số $\mathrm{mol} \mathrm{NH}_{3}=0,98 \cdot 10^{-3} \mathrm{~mol}$.
 Nồng độ dung dịch $\mathrm{NH}_{3}$ ban đầu $0,196 \mathrm{M}$.
 
-## BAI3: ÔN TÂP CHUONG 1
+## Bài 3: ÔN TÂP CHUONG 1
 
 | 3.1. A | 3.2. B | 3.3. B | 3.4. A | 3.5. A | 3.6. D |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -285,9 +279,7 @@ b) Phản ưng chuẩn độ: $\mathrm{HCl}+\mathrm{NaOH} \longrightarrow \mathr
 Nồng độ dung dịch $\mathrm{NaOH}=\frac{5,2 \cdot 0,1}{5}=0,104(\mathrm{M})$.
 c), Một số nguyên nhân dẫn đến việc sai khác nồng độ dung dịch A : NaOH rắn hút ẩm trong không khí, hấp thụ một lượng nhỏ khí $\mathrm{CO}_{2}$ trong không khỉ.
 
-## Churong 2 NIMROCEN-SULEUR
-
-## QA14. NITROGEN
+## Bài 4. NITROGEN
 
 | 4.1. B | 4.2. D | 4.3. A | 4.4. C | 4.5. C | 4.6. A | 4.7. B |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -331,7 +323,7 @@ $\mathrm{K}_{\mathrm{C}}=\frac{\left[\mathrm{NO}^{2}\right.}{\left[\mathrm{N}_{2
 4.25. Từ dữ kiện về nhiệt độ sôi cho thấy ammonia lỏng có nhiệt độ sôi cao nhất, ngược lại khí ammonia sẽ dễ bị hoá lỏng nhất.
 Như vậy, nếu giảm nhiệt độ hỗn hợp xuống thấp hon - $33^{\circ} \mathrm{C}$ vài độ, ví dụ ở $-40^{\circ} \mathrm{C}$ thì toàn bộ khí ammonia sẽ hoá lổng và được tách ra. Trong khi đó, ở $-40^{\circ} \mathrm{C}$ thì nitrogen và hydrogen vẫn ở trạng thái khí được dẫn về thực hiện vòng tuần hoàn mới.
 
-## BAT5. AMMONIA • MUÓI AMMONIUM
+## Bài 5. AMMONIA • MUÓI AMMONIUM
 
 | $5.1 . \mathrm{B}$ | $5.2 . \mathrm{C}$ | $5.3 . \mathrm{C}$ | $5.4 . \mathrm{B}$ | $5.5 . \mathrm{A}$ |
 | :---: | :---: | :---: | :---: | :---: |
@@ -403,9 +395,7 @@ Số mol ammonia cần dùng $=30000+30000 \cdot 2=90000(\mathrm{~mol})$.
 Thể tich ammonia $=24,79 \cdot 90000=2231100($ lít $)=2231,1 \mathrm{~m}^{3}$.
 Khối lượng ammophos thu được: $5,88+1,53=7,41$ (tấn).
 
-## BAI 6
-
-## MỘT SỐ HỌP CHẤT VỚI OXYGEN CÚA NITROGEN
+## Bài 6. MỘT SỐ HỌP CHẤT VỚI OXYGEN CÚA NITROGEN
 
 | $6.1 . \mathrm{B}$ | $6.2 . \mathrm{A}$ | $6.3 . \mathrm{B}$ | $6.4 . \mathrm{D}$ | $6.5 . \mathrm{C}$ |
 | :---: | :---: | :---: | :---: | :---: |
@@ -469,7 +459,7 @@ Tỉ lệ thể tích $\mathrm{NH}_{3}: \mathrm{O}_{2}=12: 21$.
 $\Rightarrow$ Tỉ lệ thể tích $\mathrm{NH}_{3}:$ Không khí $=12: 21 \cdot \frac{100}{21}=12: 100=1: 8,33$.
 Do vậy, ban đầu tỉ lệ $\mathrm{NH}_{3}:$ Không khí gần bằng $1: 9$ (có lấy dư không khí).
 
-## BA17. SULFUR VÀ SULFUR DIOXIDE
+## Bài 7. SULFUR VÀ SULFUR DIOXIDE
 
 | 7.1. A | 7.2. B | 7.3. B | 7.4. D | 7.5. B |
 | :---: | :---: | :---: | :---: | :---: |
@@ -506,7 +496,7 @@ $\mathrm{SO}_{3}+\mathrm{H}_{2} \mathrm{O} \longrightarrow \mathrm{H}_{2} \mathr
 Mol: 125125
 Thể tích nước mưa bị nhiễm acid $=\frac{125}{1,25 \cdot 10^{-5}}=10000000(\mathrm{~L})=10000 \mathrm{~m}^{3}$.
 
-## BAI 8. SULFURIC ACID VÀ MUÓI SULFATE
+## Bài 8. SULFURIC ACID VÀ MUÓI SULFATE
 
 | 8.1. A | $8.2 . \mathrm{C}$ | $8.3 . \mathrm{D}$ | $8.4 . \mathrm{B}$ | $8.5 . \mathrm{B}$ |
 | :---: | :---: | :---: | :---: | :---: |
@@ -567,7 +557,7 @@ $$
 Khối lượng dung dịch $\mathrm{H}_{2} \mathrm{SO}_{4} 70 \%$ cần dùng là:
 $8547 \cdot 98 \cdot \frac{100}{70} \cdot \frac{100}{80}=1495725(\mathrm{~g}) \approx 1,5$ tấn.
 
-## BAI9. ÔN TÂP CHUONG 2
+## Bài 9. ÔN TÂP CHUONG 2
 
 | 9.1. C | 9.2. B | 9.3. A | 9.4. C | 9.5. C |
 | :---: | :---: | :---: | :---: | :---: |
@@ -600,9 +590,7 @@ c) $\mathrm{CaCO}_{3}+\mathrm{H}_{2} \mathrm{SO}_{4} \longrightarrow \mathrm{CaS
 
 Khối lượng đá vôi bị ăn mòn bằng: $\frac{1568 \cdot 100}{98}=1600(\mathrm{~kg})$.
 
-## Chuong 3 ĐAI CUONG VÉ HOA HOC HUTU CO
-
-## BAl 10. HỢ CHÁT HƯU CO VÀ HOÁ HOC HỨU CO
+## Bài 10. HỢ CHÁT HƯU CO VÀ HOÁ HOC HỨU CO
 
 | $10.1 . \mathrm{A}$ | $10.2 . \mathrm{C}$ | $10.3 . \mathrm{A}$ | $10.4 . \mathrm{A}$ | $10.5 . \mathrm{A}$ |
 | :---: | :---: | :---: | :---: | :---: |
@@ -627,7 +615,7 @@ g) Khoảng tín hiệu trong khoảng 3200 và $3600 \mathrm{~cm}^{-1}$ đặc 
 4) Liên kết $\mathrm{C}_{\mathrm{sp}^{2}}-\mathrm{H}\left(\sim 3100 \mathrm{~cm}^{-1}\right)$;
 5) Liên kết $\mathrm{O}-\mathrm{H}$ của nhóm carboxylic acid ( $2200-3600 \mathrm{~cm}^{-1}$ ).
 
-## BAL11. PHUONG PHÁP TÁCH BIỆT
+## Bài 11. PHUONG PHÁP TÁCH BIỆT
 
 VÀ TINH CHẾ HỢ CHÁT HỨU CO
 
@@ -643,7 +631,7 @@ Dung dịch C chứa naphthalene tan trong ether do chất này không phân c�
 11.9. Để tránh hiện tượng caramel hoá hoặc than hoá, người ta có thể sữ dụng biện pháp kết tinh lại dưới áp suất thấp (nhiệt độ sôi phụ thuộc áp suất bề mặt, khi áp suất thấp, nước bay hơi ở nhiệt độ thấp hon và như vậy quá trình kểt tinh lại sẽ diễn ra ở nhiệt độ thấp, không xảy ra hiện tượng caramel hoá hoặc than hoá). Người ta cũng có thể sử dụng mầm kết tinh để kết tinh đường từ dung dịch đậm đặc ở điều kiện thường.
 11.10. Cellulose là một hợp chất phân cực, hấp phụ tốt các chất phân cực, nên các chất càng kém phân cực sẽ di chuyển càng nhanh và càng phân cực sẽ di chuyển càng chậm trên pha tĩnh này.
 
-## BAI 12. CÔNG THƯC PHÂN TƯ HỢP CHẤT HƯU CO
+## Bài 12. CÔNG THƯC PHÂN TƯ HỢP CHẤT HƯU CO
 
 | $12.1 . \mathrm{A}$ | $12.2 . \mathrm{B}$ | $12.3 . \mathrm{A}$ | $12.4 . \mathrm{A}$ |
 | :--- | :--- | :--- | :--- |
@@ -675,7 +663,7 @@ c) Phổ khối lượng của chất Y cho thấy phân tử khối của chấ
 
 Công thức phân tử của Y là $\mathrm{C}_{6} \mathrm{H}_{6} \mathrm{O}$.
 
-## BA1]. CÁU TAO HOÁ HOC HOP CHÁT HƯU CO
+## Bài 13. CÁU TAO HOÁ HOC HOP CHÁT HƯU CO
 
 | $13.1 . \mathrm{A}$ | $13.2 . \mathrm{D}$ | $13.3 . \mathrm{D}$ | $13.4 . \mathrm{A}$ | $13.5 . \mathrm{B}$ |
 | :--- | :--- | :--- | :--- | :--- |
@@ -712,7 +700,7 @@ $$
 \mathrm{CH}_{3}-\mathrm{CH}_{2}-\mathrm{O}-\mathrm{CH}_{2}-\mathrm{CH}_{3}
 $$
 
-## EAI 14. ÔN TÂP CHUONG 3
+## Bài 14. ÔN TÂP CHUONG 3
 
 | $14.1 . \mathrm{A}$ | $14.2 . \mathrm{B}$ | $14.3 . \mathrm{B}$ | $14.4 . \mathrm{C}$ |
 | :---: | :---: | :---: | :---: |
@@ -749,9 +737,8 @@ $\mathrm{C}_{8} \mathrm{H}_{10}$ (hydrocarbon thơm) có đồng phân về vị
 <img class="imgSvg" id = "mh3ipqlztjhd5tf4jc8" src="data:image/svg+xml;base64,PHN2ZyBpZD0ic21pbGVzLW1oM2lwcWx6dGpoZDV0ZjRqYzgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDE5MyAxMDUuMDAwMDM2NzI5Nzg3MTciIHN0eWxlPSJ3aWR0aDogMTkzLjExOTIwMDg3NjgxNDU3cHg7IGhlaWdodDogMTA1LjAwMDAzNjcyOTc4NzE3cHg7IG92ZXJmbG93OiB2aXNpYmxlOyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lLW1oM2lwcWx6dGpoZDV0ZjRqYzgtMSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSIxMjMuODM5MzkwMDU0NjMwNTQiIHkxPSIzNi43NTAwNTUwOTQ2OTg2MSIgeDI9IjE1MS4xMTkyMDA4NzY4MTQ1NyIgeTI9IjIxLjAwMDA3MzQ1OTYwMjkzIj48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMjAlIj48L3N0b3A+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjEwMCUiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZS1taDNpcHFsenRqaGQ1dGY0amM4LTMiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iMTE4LjE2OTM3MDk2OTI2NzE1IiB5MT0iNjUuMTAwMDUxMjc3NjE5MjMiIHgyPSIxMTguMTY5Mzg3OTM0MDM1NzUiIHkyPSIzOS45MDAwNTEyNzc2MjQ5NTQiPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIyMCUiPjwvc3RvcD48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMTAwJSI+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lLW1oM2lwcWx6dGpoZDV0ZjRqYzgtNSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSIxMjMuODM5MzY4ODQ4NjY5NzgiIHkxPSI2OC4yNTAwNTUwOTQ2OTE0NiIgeDI9IjEyMy44MzkzOTAwNTQ2MzA1NCIgeTI9IjM2Ljc1MDA1NTA5NDY5ODYxIj48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMjAlIj48L3N0b3A+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjEwMCUiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZS1taDNpcHFsenRqaGQ1dGY0amM4LTciIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iOTYuNTU5NjAwNDM4NDA3MjQiIHkxPSIyMS4wMDAwMzY3Mjk4MDE0MzciIHgyPSIxMjMuODM5MzkwMDU0NjMwNTQiIHkyPSIzNi43NTAwNTUwOTQ2OTg2MSI+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjIwJSI+PC9zdG9wPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmUtbWgzaXBxbHp0amhkNXRmNGpjOC05IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9Ijk2LjU1OTU1ODAyNjQ4NTc3IiB5MT0iODQuMDAwMDM2NzI5Nzg3MTciIHgyPSIxMjMuODM5MzY4ODQ4NjY5NzgiIHkyPSI2OC4yNTAwNTUwOTQ2OTE0NiI+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjIwJSI+PC9zdG9wPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmUtbWgzaXBxbHp0amhkNXRmNGpjOC0xMSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSI3NC44NDI3NjczOTI3NTg4OSIgeTE9IjQwLjA4NTM4NjE0OTM4MDY5NiIgeDI9Ijk2LjY2NjYxNjA1MDUwNjA4IiB5Mj0iMjcuNDg1NDAwODQxMzA0MTI3Ij48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMjAlIj48L3N0b3A+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjEwMCUiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZS1taDNpcHFsenRqaGQ1dGY0amM4LTEzIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjY5LjI3OTc4OTYxNjIyMzI1IiB5MT0iMzYuNzUwMDE4MzY0ODk3MTYiIHgyPSI5Ni41NTk2MDA0Mzg0MDcyNCIgeTI9IjIxLjAwMDAzNjcyOTgwMTQzNyI+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjIwJSI+PC9zdG9wPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmUtbWgzaXBxbHp0amhkNXRmNGpjOC0xNSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSI3NC44NDI3NTA2Nzc1NjYzMyIgeTE9IjY0LjkxNDY1ODA3MDQ1OTU0IiB4Mj0iOTYuNjY2NTgyMzcwNTQ0OTMiIHkyPSI3Ny41MTQ2NzI3NjIzNzcyNiI+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjIwJSI+PC9zdG9wPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmUtbWgzaXBxbHp0amhkNXRmNGpjOC0xNyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSI2OS4yNzk3Njg0MTAyNjI1IiB5MT0iNjguMjUwMDE4MzY0ODkwMDEiIHgyPSI5Ni41NTk1NTgwMjY0ODU3NyIgeTI9Ijg0LjAwMDAzNjcyOTc4NzE3Ij48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMjAlIj48L3N0b3A+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjEwMCUiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZS1taDNpcHFsenRqaGQ1dGY0amM4LTE5IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjY5LjI3OTc2ODQxMDI2MjUiIHkxPSI2OC4yNTAwMTgzNjQ4OTAwMSIgeDI9IjY5LjI3OTc4OTYxNjIyMzI1IiB5Mj0iMzYuNzUwMDE4MzY0ODk3MTYiPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIyMCUiPjwvc3RvcD48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMTAwJSI+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lLW1oM2lwcWx6dGpoZDV0ZjRqYzgtMjEiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iNDIiIHkxPSIyMSIgeDI9IjY5LjI3OTc4OTYxNjIyMzI1IiB5Mj0iMzYuNzUwMDE4MzY0ODk3MTYiPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIyMCUiPjwvc3RvcD48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMTAwJSI+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxtYXNrIGlkPSJ0ZXh0LW1hc2stbWgzaXBxbHp0amhkNXRmNGpjOCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0id2hpdGUiPjwvcmVjdD48L21hc2s+PHN0eWxlPgogICAgICAgICAgICAgICAgLmVsZW1lbnQtbWgzaXBxbHp0amhkNXRmNGpjOCB7CiAgICAgICAgICAgICAgICAgICAgZm9udDogMTRweCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOwogICAgICAgICAgICAgICAgICAgIGFsaWdubWVudC1iYXNlbGluZTogJ21pZGRsZSc7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAuc3ViLW1oM2lwcWx6dGpoZDV0ZjRqYzggewogICAgICAgICAgICAgICAgICAgIGZvbnQ6IDguNHB4IEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWY7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIDwvc3R5bGU+PGcgbWFzaz0idXJsKCN0ZXh0LW1hc2stbWgzaXBxbHp0amhkNXRmNGpjOCkiPjxsaW5lIHgxPSIxMjMuODM5MzkwMDU0NjMwNTQiIHkxPSIzNi43NTAwNTUwOTQ2OTg2MSIgeDI9IjE1MS4xMTkyMDA4NzY4MTQ1NyIgeTI9IjIxLjAwMDA3MzQ1OTYwMjkzIiBzdHlsZT0ic3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS13aWR0aDoxLjI2IiBzdHJva2U9InVybCgnI2xpbmUtbWgzaXBxbHp0amhkNXRmNGpjOC0xJykiPjwvbGluZT48bGluZSB4MT0iMTE4LjE2OTM3MDk2OTI2NzE1IiB5MT0iNjUuMTAwMDUxMjc3NjE5MjMiIHgyPSIxMTguMTY5Mzg3OTM0MDM1NzUiIHkyPSIzOS45MDAwNTEyNzc2MjQ5NTQiIHN0eWxlPSJzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLXdpZHRoOjEuMjYiIHN0cm9rZT0idXJsKCcjbGluZS1taDNpcHFsenRqaGQ1dGY0amM4LTMnKSI+PC9saW5lPjxsaW5lIHgxPSIxMjMuODM5MzY4ODQ4NjY5NzgiIHkxPSI2OC4yNTAwNTUwOTQ2OTE0NiIgeDI9IjEyMy44MzkzOTAwNTQ2MzA1NCIgeTI9IjM2Ljc1MDA1NTA5NDY5ODYxIiBzdHlsZT0ic3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS13aWR0aDoxLjI2IiBzdHJva2U9InVybCgnI2xpbmUtbWgzaXBxbHp0amhkNXRmNGpjOC01JykiPjwvbGluZT48bGluZSB4MT0iOTYuNTU5NjAwNDM4NDA3MjQiIHkxPSIyMS4wMDAwMzY3Mjk4MDE0MzciIHgyPSIxMjMuODM5MzkwMDU0NjMwNTQiIHkyPSIzNi43NTAwNTUwOTQ2OTg2MSIgc3R5bGU9InN0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2Utd2lkdGg6MS4yNiIgc3Ryb2tlPSJ1cmwoJyNsaW5lLW1oM2lwcWx6dGpoZDV0ZjRqYzgtNycpIj48L2xpbmU+PGxpbmUgeDE9Ijk2LjU1OTU1ODAyNjQ4NTc3IiB5MT0iODQuMDAwMDM2NzI5Nzg3MTciIHgyPSIxMjMuODM5MzY4ODQ4NjY5NzgiIHkyPSI2OC4yNTAwNTUwOTQ2OTE0NiIgc3R5bGU9InN0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2Utd2lkdGg6MS4yNiIgc3Ryb2tlPSJ1cmwoJyNsaW5lLW1oM2lwcWx6dGpoZDV0ZjRqYzgtOScpIj48L2xpbmU+PGxpbmUgeDE9Ijc0Ljg0Mjc2NzM5Mjc1ODg5IiB5MT0iNDAuMDg1Mzg2MTQ5MzgwNjk2IiB4Mj0iOTYuNjY2NjE2MDUwNTA2MDgiIHkyPSIyNy40ODU0MDA4NDEzMDQxMjciIHN0eWxlPSJzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLXdpZHRoOjEuMjYiIHN0cm9rZT0idXJsKCcjbGluZS1taDNpcHFsenRqaGQ1dGY0amM4LTExJykiPjwvbGluZT48bGluZSB4MT0iNjkuMjc5Nzg5NjE2MjIzMjUiIHkxPSIzNi43NTAwMTgzNjQ4OTcxNiIgeDI9Ijk2LjU1OTYwMDQzODQwNzI0IiB5Mj0iMjEuMDAwMDM2NzI5ODAxNDM3IiBzdHlsZT0ic3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS13aWR0aDoxLjI2IiBzdHJva2U9InVybCgnI2xpbmUtbWgzaXBxbHp0amhkNXRmNGpjOC0xMycpIj48L2xpbmU+PGxpbmUgeDE9Ijc0Ljg0Mjc1MDY3NzU2NjMzIiB5MT0iNjQuOTE0NjU4MDcwNDU5NTQiIHgyPSI5Ni42NjY1ODIzNzA1NDQ5MyIgeTI9Ijc3LjUxNDY3Mjc2MjM3NzI2IiBzdHlsZT0ic3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS13aWR0aDoxLjI2IiBzdHJva2U9InVybCgnI2xpbmUtbWgzaXBxbHp0amhkNXRmNGpjOC0xNScpIj48L2xpbmU+PGxpbmUgeDE9IjY5LjI3OTc2ODQxMDI2MjUiIHkxPSI2OC4yNTAwMTgzNjQ4OTAwMSIgeDI9Ijk2LjU1OTU1ODAyNjQ4NTc3IiB5Mj0iODQuMDAwMDM2NzI5Nzg3MTciIHN0eWxlPSJzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLXdpZHRoOjEuMjYiIHN0cm9rZT0idXJsKCcjbGluZS1taDNpcHFsenRqaGQ1dGY0amM4LTE3JykiPjwvbGluZT48bGluZSB4MT0iNjkuMjc5NzY4NDEwMjYyNSIgeTE9IjY4LjI1MDAxODM2NDg5MDAxIiB4Mj0iNjkuMjc5Nzg5NjE2MjIzMjUiIHkyPSIzNi43NTAwMTgzNjQ4OTcxNiIgc3R5bGU9InN0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2Utd2lkdGg6MS4yNiIgc3Ryb2tlPSJ1cmwoJyNsaW5lLW1oM2lwcWx6dGpoZDV0ZjRqYzgtMTknKSI+PC9saW5lPjxsaW5lIHgxPSI0MiIgeTE9IjIxIiB4Mj0iNjkuMjc5Nzg5NjE2MjIzMjUiIHkyPSIzNi43NTAwMTgzNjQ4OTcxNiIgc3R5bGU9InN0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2Utd2lkdGg6MS4yNiIgc3Ryb2tlPSJ1cmwoJyNsaW5lLW1oM2lwcWx6dGpoZDV0ZjRqYzgtMjEnKSI+PC9saW5lPjwvZz48Zz48dGV4dCB4PSIxNTEuMTE5MjAwODc2ODE0NTciIHk9IjIxLjAwMDA3MzQ1OTYwMjkzIiBjbGFzcz0iZGVidWciIGZpbGw9IiNmZjAwMDAiIHN0eWxlPSIKICAgICAgICAgICAgICAgIGZvbnQ6IDVweCBEcm9pZCBTYW5zLCBzYW5zLXNlcmlmOwogICAgICAgICAgICAiPjwvdGV4dD48dGV4dCB4PSIxMjMuODM5MzkwMDU0NjMwNTQiIHk9IjM2Ljc1MDA1NTA5NDY5ODYxIiBjbGFzcz0iZGVidWciIGZpbGw9IiNmZjAwMDAiIHN0eWxlPSIKICAgICAgICAgICAgICAgIGZvbnQ6IDVweCBEcm9pZCBTYW5zLCBzYW5zLXNlcmlmOwogICAgICAgICAgICAiPjwvdGV4dD48dGV4dCB4PSIxMjMuODM5MzY4ODQ4NjY5NzgiIHk9IjY4LjI1MDA1NTA5NDY5MTQ2IiBjbGFzcz0iZGVidWciIGZpbGw9IiNmZjAwMDAiIHN0eWxlPSIKICAgICAgICAgICAgICAgIGZvbnQ6IDVweCBEcm9pZCBTYW5zLCBzYW5zLXNlcmlmOwogICAgICAgICAgICAiPjwvdGV4dD48dGV4dCB4PSI5Ni41NTk1NTgwMjY0ODU3NyIgeT0iODQuMDAwMDM2NzI5Nzg3MTciIGNsYXNzPSJkZWJ1ZyIgZmlsbD0iI2ZmMDAwMCIgc3R5bGU9IgogICAgICAgICAgICAgICAgZm9udDogNXB4IERyb2lkIFNhbnMsIHNhbnMtc2VyaWY7CiAgICAgICAgICAgICI+PC90ZXh0Pjx0ZXh0IHg9IjY5LjI3OTc2ODQxMDI2MjUiIHk9IjY4LjI1MDAxODM2NDg5MDAxIiBjbGFzcz0iZGVidWciIGZpbGw9IiNmZjAwMDAiIHN0eWxlPSIKICAgICAgICAgICAgICAgIGZvbnQ6IDVweCBEcm9pZCBTYW5zLCBzYW5zLXNlcmlmOwogICAgICAgICAgICAiPjwvdGV4dD48dGV4dCB4PSI2OS4yNzk3ODk2MTYyMjMyNSIgeT0iMzYuNzUwMDE4MzY0ODk3MTYiIGNsYXNzPSJkZWJ1ZyIgZmlsbD0iI2ZmMDAwMCIgc3R5bGU9IgogICAgICAgICAgICAgICAgZm9udDogNXB4IERyb2lkIFNhbnMsIHNhbnMtc2VyaWY7CiAgICAgICAgICAgICI+PC90ZXh0Pjx0ZXh0IHg9IjQyIiB5PSIyMSIgY2xhc3M9ImRlYnVnIiBmaWxsPSIjZmYwMDAwIiBzdHlsZT0iCiAgICAgICAgICAgICAgICBmb250OiA1cHggRHJvaWQgU2Fucywgc2Fucy1zZXJpZjsKICAgICAgICAgICAgIj48L3RleHQ+PHRleHQgeD0iOTYuNTU5NjAwNDM4NDA3MjQiIHk9IjIxLjAwMDAzNjcyOTgwMTQzNyIgY2xhc3M9ImRlYnVnIiBmaWxsPSIjZmYwMDAwIiBzdHlsZT0iCiAgICAgICAgICAgICAgICBmb250OiA1cHggRHJvaWQgU2Fucywgc2Fucy1zZXJpZjsKICAgICAgICAgICAgIj48L3RleHQ+PC9nPjwvc3ZnPg=="/>
 <img class="imgSvg" id = "mh3ipqm1qr6gyd4e9r" src="data:image/svg+xml;base64,PHN2ZyBpZD0ic21pbGVzLW1oM2lwcW0xcXI2Z3lkNGU5ciIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjEwIDk2LjU1OTYyODcxMzAxMTk5IiBzdHlsZT0id2lkdGg6IDIwOS45OTk5OTk5OTk5NDkyNHB4OyBoZWlnaHQ6IDk2LjU1OTYyODcxMzAxMTk5cHg7IG92ZXJmbG93OiB2aXNpYmxlOyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lLW1oM2lwcW0xcXI2Z3lkNGU5ci0xIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjEzNi40OTk5OTk5OTk5NjE5NCIgeTE9IjQ4LjI3OTg0MjYzMTEyMDM0NiIgeDI9IjE2Ny45OTk5OTk5OTk5NDkyNCIgeTI9IjQ4LjI3OTg3MDkwNTczNDcyNSI+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjIwJSI+PC9zdG9wPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmUtbWgzaXBxbTFxcjZneWQ0ZTlyLTMiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iMTE3LjQxNDYxNjQ2NzM0NjI2IiB5MT0iNjkuOTk2NjQ1Njk3MjQ3NzkiIHgyPSIxMzAuMDE0NjM2MDU2NTY4NjMiIHkyPSI0OC4xNzI4MTY4MzE3MzQ0NjUiPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIyMCUiPjwvc3RvcD48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMTAwJSI+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lLW1oM2lwcW0xcXI2Z3lkNGU5ci01IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjEyMC43NDk5NzU1MTM0MzM5NSIgeTE9Ijc1LjU1OTYyODcxMzAxMTk5IiB4Mj0iMTM2LjQ5OTk5OTk5OTk2MTk0IiB5Mj0iNDguMjc5ODQyNjMxMTIwMzQ2Ij48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMjAlIj48L3N0b3A+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjEwMCUiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZS1taDNpcHFtMXFyNmd5ZDRlOXItNyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSIxMjAuNzUwMDI0NDg2NTAyNTUiIHkxPSIyMS4wMDAwMjgyNzQ2MTQzMjMiIHgyPSIxMzYuNDk5OTk5OTk5OTYxOTQiIHkyPSI0OC4yNzk4NDI2MzExMjAzNDYiPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIyMCUiPjwvc3RvcD48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMTAwJSI+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lLW1oM2lwcW0xcXI2Z3lkNGU5ci05IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9Ijg5LjI0OTk3NTUxMzQ0NjY3IiB5MT0iNzUuNTU5NjAwNDM4Mzk3NjciIHgyPSIxMjAuNzQ5OTc1NTEzNDMzOTUiIHkyPSI3NS41NTk2Mjg3MTMwMTE5OSI+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjIwJSI+PC9zdG9wPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmUtbWgzaXBxbTFxcjZneWQ0ZTlyLTExIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjkyLjQwMDAxOTM5NzA4MzQxIiB5MT0iMjYuNjcwMDAyODI3NDU5MTQzIiB4Mj0iMTE3LjYwMDAxOTM5NzA3MzI1IiB5Mj0iMjYuNjcwMDI1NDQ3MTUwNjA3Ij48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMjAlIj48L3N0b3A+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjEwMCUiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZS1taDNpcHFtMXFyNmd5ZDRlOXItMTMiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iODkuMjUwMDI0NDg2NTE1MjYiIHkxPSIyMSIgeDI9IjEyMC43NTAwMjQ0ODY1MDI1NSIgeTI9IjIxLjAwMDAyODI3NDYxNDMyMyI+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjIwJSI+PC9zdG9wPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmUtbWgzaXBxbTFxcjZneWQ0ZTlyLTE1IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9Ijc5Ljk4NTM2NDEzNTUwNDMxIiB5MT0iNDguMTcyNzcxOTI1MTE5NTgiIHgyPSI5Mi41ODUzNDQ1NDYyNzE4MSIgeTI9IjY5Ljk5NjYyMzQxMDMyNDM5Ij48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMjAlIj48L3N0b3A+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjEwMCUiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZS1taDNpcHFtMXFyNmd5ZDRlOXItMTciIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iNzMuNDk5OTk5OTk5OTg3MzEiIHkxPSI0OC4yNzk3ODYwODE4OTE2NyIgeDI9Ijg5LjI0OTk3NTUxMzQ0NjY3IiB5Mj0iNzUuNTU5NjAwNDM4Mzk3NjciPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIyMCUiPjwvc3RvcD48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMTAwJSI+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lLW1oM2lwcW0xcXI2Z3lkNGU5ci0xOSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSI3My40OTk5OTk5OTk5ODczMSIgeTE9IjQ4LjI3OTc4NjA4MTg5MTY3IiB4Mj0iODkuMjUwMDI0NDg2NTE1MjYiIHkyPSIyMSI+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjIwJSI+PC9zdG9wPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmUtbWgzaXBxbTFxcjZneWQ0ZTlyLTIxIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjQyIiB5MT0iNDguMjc5NzU3ODA3Mjc3MzM1IiB4Mj0iNzMuNDk5OTk5OTk5OTg3MzEiIHkyPSI0OC4yNzk3ODYwODE4OTE2NyI+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjIwJSI+PC9zdG9wPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PG1hc2sgaWQ9InRleHQtbWFzay1taDNpcHFtMXFyNmd5ZDRlOXIiPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IndoaXRlIj48L3JlY3Q+PC9tYXNrPjxzdHlsZT4KICAgICAgICAgICAgICAgIC5lbGVtZW50LW1oM2lwcW0xcXI2Z3lkNGU5ciB7CiAgICAgICAgICAgICAgICAgICAgZm9udDogMTRweCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOwogICAgICAgICAgICAgICAgICAgIGFsaWdubWVudC1iYXNlbGluZTogJ21pZGRsZSc7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAuc3ViLW1oM2lwcW0xcXI2Z3lkNGU5ciB7CiAgICAgICAgICAgICAgICAgICAgZm9udDogOC40cHggSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZjsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgPC9zdHlsZT48ZyBtYXNrPSJ1cmwoI3RleHQtbWFzay1taDNpcHFtMXFyNmd5ZDRlOXIpIj48bGluZSB4MT0iMTM2LjQ5OTk5OTk5OTk2MTk0IiB5MT0iNDguMjc5ODQyNjMxMTIwMzQ2IiB4Mj0iMTY3Ljk5OTk5OTk5OTk0OTI0IiB5Mj0iNDguMjc5ODcwOTA1NzM0NzI1IiBzdHlsZT0ic3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS13aWR0aDoxLjI2IiBzdHJva2U9InVybCgnI2xpbmUtbWgzaXBxbTFxcjZneWQ0ZTlyLTEnKSI+PC9saW5lPjxsaW5lIHgxPSIxMTcuNDE0NjE2NDY3MzQ2MjYiIHkxPSI2OS45OTY2NDU2OTcyNDc3OSIgeDI9IjEzMC4wMTQ2MzYwNTY1Njg2MyIgeTI9IjQ4LjE3MjgxNjgzMTczNDQ2NSIgc3R5bGU9InN0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2Utd2lkdGg6MS4yNiIgc3Ryb2tlPSJ1cmwoJyNsaW5lLW1oM2lwcW0xcXI2Z3lkNGU5ci0zJykiPjwvbGluZT48bGluZSB4MT0iMTIwLjc0OTk3NTUxMzQzMzk1IiB5MT0iNzUuNTU5NjI4NzEzMDExOTkiIHgyPSIxMzYuNDk5OTk5OTk5OTYxOTQiIHkyPSI0OC4yNzk4NDI2MzExMjAzNDYiIHN0eWxlPSJzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLXdpZHRoOjEuMjYiIHN0cm9rZT0idXJsKCcjbGluZS1taDNpcHFtMXFyNmd5ZDRlOXItNScpIj48L2xpbmU+PGxpbmUgeDE9IjEyMC43NTAwMjQ0ODY1MDI1NSIgeTE9IjIxLjAwMDAyODI3NDYxNDMyMyIgeDI9IjEzNi40OTk5OTk5OTk5NjE5NCIgeTI9IjQ4LjI3OTg0MjYzMTEyMDM0NiIgc3R5bGU9InN0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2Utd2lkdGg6MS4yNiIgc3Ryb2tlPSJ1cmwoJyNsaW5lLW1oM2lwcW0xcXI2Z3lkNGU5ci03JykiPjwvbGluZT48bGluZSB4MT0iODkuMjQ5OTc1NTEzNDQ2NjciIHkxPSI3NS41NTk2MDA0MzgzOTc2NyIgeDI9IjEyMC43NDk5NzU1MTM0MzM5NSIgeTI9Ijc1LjU1OTYyODcxMzAxMTk5IiBzdHlsZT0ic3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS13aWR0aDoxLjI2IiBzdHJva2U9InVybCgnI2xpbmUtbWgzaXBxbTFxcjZneWQ0ZTlyLTknKSI+PC9saW5lPjxsaW5lIHgxPSI5Mi40MDAwMTkzOTcwODM0MSIgeTE9IjI2LjY3MDAwMjgyNzQ1OTE0MyIgeDI9IjExNy42MDAwMTkzOTcwNzMyNSIgeTI9IjI2LjY3MDAyNTQ0NzE1MDYwNyIgc3R5bGU9InN0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2Utd2lkdGg6MS4yNiIgc3Ryb2tlPSJ1cmwoJyNsaW5lLW1oM2lwcW0xcXI2Z3lkNGU5ci0xMScpIj48L2xpbmU+PGxpbmUgeDE9Ijg5LjI1MDAyNDQ4NjUxNTI2IiB5MT0iMjEiIHgyPSIxMjAuNzUwMDI0NDg2NTAyNTUiIHkyPSIyMS4wMDAwMjgyNzQ2MTQzMjMiIHN0eWxlPSJzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLXdpZHRoOjEuMjYiIHN0cm9rZT0idXJsKCcjbGluZS1taDNpcHFtMXFyNmd5ZDRlOXItMTMnKSI+PC9saW5lPjxsaW5lIHgxPSI3OS45ODUzNjQxMzU1MDQzMSIgeTE9IjQ4LjE3Mjc3MTkyNTExOTU4IiB4Mj0iOTIuNTg1MzQ0NTQ2MjcxODEiIHkyPSI2OS45OTY2MjM0MTAzMjQzOSIgc3R5bGU9InN0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2Utd2lkdGg6MS4yNiIgc3Ryb2tlPSJ1cmwoJyNsaW5lLW1oM2lwcW0xcXI2Z3lkNGU5ci0xNScpIj48L2xpbmU+PGxpbmUgeDE9IjczLjQ5OTk5OTk5OTk4NzMxIiB5MT0iNDguMjc5Nzg2MDgxODkxNjciIHgyPSI4OS4yNDk5NzU1MTM0NDY2NyIgeTI9Ijc1LjU1OTYwMDQzODM5NzY3IiBzdHlsZT0ic3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS13aWR0aDoxLjI2IiBzdHJva2U9InVybCgnI2xpbmUtbWgzaXBxbTFxcjZneWQ0ZTlyLTE3JykiPjwvbGluZT48bGluZSB4MT0iNzMuNDk5OTk5OTk5OTg3MzEiIHkxPSI0OC4yNzk3ODYwODE4OTE2NyIgeDI9Ijg5LjI1MDAyNDQ4NjUxNTI2IiB5Mj0iMjEiIHN0eWxlPSJzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLXdpZHRoOjEuMjYiIHN0cm9rZT0idXJsKCcjbGluZS1taDNpcHFtMXFyNmd5ZDRlOXItMTknKSI+PC9saW5lPjxsaW5lIHgxPSI0MiIgeTE9IjQ4LjI3OTc1NzgwNzI3NzMzNSIgeDI9IjczLjQ5OTk5OTk5OTk4NzMxIiB5Mj0iNDguMjc5Nzg2MDgxODkxNjciIHN0eWxlPSJzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLXdpZHRoOjEuMjYiIHN0cm9rZT0idXJsKCcjbGluZS1taDNpcHFtMXFyNmd5ZDRlOXItMjEnKSI+PC9saW5lPjwvZz48Zz48dGV4dCB4PSIxNjcuOTk5OTk5OTk5OTQ5MjQiIHk9IjQ4LjI3OTg3MDkwNTczNDcyNSIgY2xhc3M9ImRlYnVnIiBmaWxsPSIjZmYwMDAwIiBzdHlsZT0iCiAgICAgICAgICAgICAgICBmb250OiA1cHggRHJvaWQgU2Fucywgc2Fucy1zZXJpZjsKICAgICAgICAgICAgIj48L3RleHQ+PHRleHQgeD0iMTM2LjQ5OTk5OTk5OTk2MTk0IiB5PSI0OC4yNzk4NDI2MzExMjAzNDYiIGNsYXNzPSJkZWJ1ZyIgZmlsbD0iI2ZmMDAwMCIgc3R5bGU9IgogICAgICAgICAgICAgICAgZm9udDogNXB4IERyb2lkIFNhbnMsIHNhbnMtc2VyaWY7CiAgICAgICAgICAgICI+PC90ZXh0Pjx0ZXh0IHg9IjEyMC43NDk5NzU1MTM0MzM5NSIgeT0iNzUuNTU5NjI4NzEzMDExOTkiIGNsYXNzPSJkZWJ1ZyIgZmlsbD0iI2ZmMDAwMCIgc3R5bGU9IgogICAgICAgICAgICAgICAgZm9udDogNXB4IERyb2lkIFNhbnMsIHNhbnMtc2VyaWY7CiAgICAgICAgICAgICI+PC90ZXh0Pjx0ZXh0IHg9Ijg5LjI0OTk3NTUxMzQ0NjY3IiB5PSI3NS41NTk2MDA0MzgzOTc2NyIgY2xhc3M9ImRlYnVnIiBmaWxsPSIjZmYwMDAwIiBzdHlsZT0iCiAgICAgICAgICAgICAgICBmb250OiA1cHggRHJvaWQgU2Fucywgc2Fucy1zZXJpZjsKICAgICAgICAgICAgIj48L3RleHQ+PHRleHQgeD0iNzMuNDk5OTk5OTk5OTg3MzEiIHk9IjQ4LjI3OTc4NjA4MTg5MTY3IiBjbGFzcz0iZGVidWciIGZpbGw9IiNmZjAwMDAiIHN0eWxlPSIKICAgICAgICAgICAgICAgIGZvbnQ6IDVweCBEcm9pZCBTYW5zLCBzYW5zLXNlcmlmOwogICAgICAgICAgICAiPjwvdGV4dD48dGV4dCB4PSI0MiIgeT0iNDguMjc5NzU3ODA3Mjc3MzM1IiBjbGFzcz0iZGVidWciIGZpbGw9IiNmZjAwMDAiIHN0eWxlPSIKICAgICAgICAgICAgICAgIGZvbnQ6IDVweCBEcm9pZCBTYW5zLCBzYW5zLXNlcmlmOwogICAgICAgICAgICAiPjwvdGV4dD48dGV4dCB4PSI4OS4yNTAwMjQ0ODY1MTUyNiIgeT0iMjEiIGNsYXNzPSJkZWJ1ZyIgZmlsbD0iI2ZmMDAwMCIgc3R5bGU9IgogICAgICAgICAgICAgICAgZm9udDogNXB4IERyb2lkIFNhbnMsIHNhbnMtc2VyaWY7CiAgICAgICAgICAgICI+PC90ZXh0Pjx0ZXh0IHg9IjEyMC43NTAwMjQ0ODY1MDI1NSIgeT0iMjEuMDAwMDI4Mjc0NjE0MzIzIiBjbGFzcz0iZGVidWciIGZpbGw9IiNmZjAwMDAiIHN0eWxlPSIKICAgICAgICAgICAgICAgIGZvbnQ6IDVweCBEcm9pZCBTYW5zLCBzYW5zLXNlcmlmOwogICAgICAgICAgICAiPjwvdGV4dD48L2c+PC9zdmc+"/>
 
-## Ch110110. <br> INOROCARBON
 
-## DAII 5. <br> ALKANE
+## Bài 15. <br> ALKANE
 
 | $15.1 . \mathrm{B}$ | $15.2 . \mathrm{B}$ | $15.3 . \mathrm{A}$ | $15.4 . \mathrm{D}$ | $15.5 . \mathrm{D}$ | $15.6 . \mathrm{A}$ |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -818,7 +805,7 @@ $\Delta \mathrm{H}_{\text {dót cháy } \mathrm{C}_{3} \mathrm{H}_{8}}^{\mathrm{
 Vậy nhiệt hìrh thành chuẩn của propane là:
 $\Delta_{\mathrm{f}} \mathrm{H}_{\mathrm{C}_{3} \mathrm{H}_{8}}^{\mathrm{o}}=3 \cdot(-393,5)+4 \cdot(-285,8)-1 \cdot(-2216)=-107,7(\mathrm{~kJ} / \mathrm{mol})$.
 
-## BAI 16. HYDROCARBON KHÔNG NO
+## Bài 16. HYDROCARBON KHÔNG NO
 
 | $16.1 . \mathrm{C}$ | $16.2 . \mathrm{B}$ | $16.3 . \mathrm{C}$ | $16.4 . \mathrm{A}$ | $16.5 . \mathrm{B}$ |
 | :---: | :---: | :---: | :---: | :---: |
@@ -858,9 +845,7 @@ $\mathrm{CH}_{2}=\mathrm{CH}_{2}+\mathrm{Cl}_{2} \longrightarrow \mathrm{CH}_{2}
 $\mathrm{CH}_{2} \mathrm{Cl}-\mathrm{CH}_{2} \mathrm{Cl} \xrightarrow{377^{\circ} \mathrm{C}} \mathrm{CH}_{2}=\mathrm{CHCl}+\mathrm{HCl}$
 $\mathrm{nCH}_{2}=\mathrm{CHCl} \xrightarrow{\mathrm{xt}^{\mathrm{e}} \mathrm{t}^{\circ}}-\left(\mathrm{CH}_{2}-\mathrm{CHCl}\right)_{\mathrm{n}}$
 
-## BAI17.
-
-## AREN (HYDROCARBON THOM)
+## Bài 17. AREN (HYDROCARBON THOM)
 
 | 17.1. A | 17.2. D | 17.3. C | 17.4. D | 17.5. C |
 | :---: | :---: | :---: | :---: | :---: |
@@ -900,7 +885,7 @@ b) 2,4,6-trinitrotoluene từ heptane:
 $\mathrm{C}_{7} \mathrm{H}_{16} \xrightarrow{\text { reforming }} \mathrm{C}_{6} \mathrm{H}_{5} \mathrm{CH}_{3}+4 \mathrm{H}_{2}$
 $\mathrm{C}_{6} \mathrm{H}_{5} \mathrm{CH}_{3}+3 \mathrm{HONO}_{2} \xrightarrow{\mathrm{H}_{2} \mathrm{SO}_{4} \text { đăc }} 2,4,6-\left(\mathrm{O}_{2} \mathrm{~N}\right)_{3} \mathrm{C}_{6} \mathrm{H}_{2} \mathrm{CH}_{3}+3 \mathrm{H}_{2} \mathrm{O}$
 
-## BAL 18. ÔN TÂP CHUONG 4
+## Bài 18. ÔN TÂP CHUONG 4
 
 | $18.1 . \mathrm{D}$ | $18.2 . \mathrm{D}$ | $18.3 . \mathrm{A}$ | $18.4 . \mathrm{B}$ | $18.5 . \mathrm{D}$ |
 | :---: | :---: | :---: | :---: | :---: |
@@ -982,9 +967,8 @@ $p$-xylene
 (6) $\mathrm{C}_{6} \mathrm{H}_{6}+2 \mathrm{Cl}_{2} \xrightarrow{\mathrm{Fe}, \mathrm{t}^{\circ}} o-\mathrm{C}_{6} \mathrm{H}_{4}\left(\mathrm{Cl}_{2}\right.$ và $p-\mathrm{C}_{6} \mathrm{H}_{4}\left(\mathrm{Cl}_{2}+2 \mathrm{HCl}\right.$
 (7) $\mathrm{C}_{6} \mathrm{H}_{6}+2 \mathrm{HNO}_{3} \xrightarrow{\mathrm{H}_{2} \mathrm{SO}_{4}, \mathrm{t}^{\circ}} \mathrm{m}-\mathrm{C}_{6} \mathrm{H}_{4}\left(\mathrm{NO}_{2}\right)_{2}+2 \mathrm{H}_{2} \mathrm{O}$
 
-## Churong 5 DAN XUAT IALOGEN ALCOHOL-PHENOL
 
-## BAlle. DÃN XUÁT HALOGEN
+## Bài 19. DÃN XUÁT HALOGEN
 
 | $19.1 . \mathrm{D}$ | $19.2 . \mathrm{B}$ | $19.3 . \mathrm{C}$ | $19.4 . \mathrm{C}$ | $19.5 . \mathrm{A}$ |
 | :---: | :---: | :---: | :---: | :---: |
@@ -1013,7 +997,7 @@ Công thức cấu tạo của A thoả mãn điều kiện đề bài là:
 <img class="imgSvg" id = "mh3ipqomq0q834sk0ug" src="data:image/svg+xml;base64,PHN2ZyBpZD0ic21pbGVzLW1oM2lwcW9tcTBxODM0c2swdWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDE5MyAxMjAuNzUwMDE4MzY0ODgyODkiIHN0eWxlPSJ3aWR0aDogMTkzLjExOTIwMDg3NjgxNDU1cHg7IGhlaWdodDogMTIwLjc1MDAxODM2NDg4Mjg5cHg7IG92ZXJmbG93OiB2aXNpYmxlOyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lLW1oM2lwcW9tcTBxODM0c2swdWctMSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSIxMjMuODM5NDExMjYwNTkxMjkiIHkxPSI1Mi41MDAwMzY3Mjk3OTQzNCIgeDI9IjE1MS4xMTkyMDA4NzY4MTQ1NSIgeTI9IjY4LjI1MDA1NTA5NDY5MTUiPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIyMCUiPjwvc3RvcD48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMTAwJSI+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lLW1oM2lwcW9tcTBxODM0c2swdWctMyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSIxMjMuODM5NDExMjYwNTkxMjkiIHkxPSI1Mi41MDAwMzY3Mjk3OTQzNCIgeDI9IjEyMy44Mzk0MzI0NjY1NTIwNSIgeTI9IjIxLjAwMDAzNjcyOTgwMTQ4Ij48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMjAlIj48L3N0b3A+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjEwMCUiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZS1taDNpcHFvbXEwcTgzNHNrMHVnLTUiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iOTYuNTU5NjAwNDM4NDA3MjciIHkxPSI2OC4yNTAwMTgzNjQ4OTAwMiIgeDI9IjEyMy44Mzk0MTEyNjA1OTEyOSIgeTI9IjUyLjUwMDAzNjcyOTc5NDM0Ij48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMjAlIj48L3N0b3A+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjEwMCUiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZS1taDNpcHFvbXEwcTgzNHNrMHVnLTciIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iOTYuNTU5NTc5MjMyNDQ2NSIgeTE9Ijk5Ljc1MDAxODM2NDg4Mjg5IiB4Mj0iOTYuNTU5NjAwNDM4NDA3MjciIHkyPSI2OC4yNTAwMTgzNjQ4OTAwMiI+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjIwJSI+PC9zdG9wPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIxMDAlIj48L3N0b3A+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmUtbWgzaXBxb21xMHE4MzRzazB1Zy05IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjY5LjI3OTgxMDgyMjE4NDAyIiB5MT0iNTIuNDk5OTk5OTk5OTkyODYiIHgyPSI5Ni41NTk2MDA0Mzg0MDcyNyIgeTI9IjY4LjI1MDAxODM2NDg5MDAyIj48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMjAlIj48L3N0b3A+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjEwMCUiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZS1taDNpcHFvbXEwcTgzNHNrMHVnLTExIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjQyIiB5MT0iNjguMjQ5OTgxNjM1MDg4NTUiIHgyPSI2OS4yNzk4MTA4MjIxODQwMiIgeTI9IjUyLjQ5OTk5OTk5OTk5Mjg2Ij48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMjAlIj48L3N0b3A+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjEwMCUiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZS1taDNpcHFvbXEwcTgzNHNrMHVnLTEzIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjY5LjI3OTgxMDgyMjE4NDAyIiB5MT0iNTIuNDk5OTk5OTk5OTkyODYiIHgyPSI2OS4yNzk4MzIwMjgxNDQ3OCIgeTI9IjIxIj48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMjAlIj48L3N0b3A+PHN0b3Agc3RvcC1jb2xvcj0iY3VycmVudENvbG9yIiBvZmZzZXQ9IjEwMCUiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48bWFzayBpZD0idGV4dC1tYXNrLW1oM2lwcW9tcTBxODM0c2swdWciPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IndoaXRlIj48L3JlY3Q+PGNpcmNsZSBjeD0iOTYuNTU5NTc5MjMyNDQ2NSIgY3k9Ijk5Ljc1MDAxODM2NDg4Mjg5IiByPSI4LjUzMTI1IiBmaWxsPSJibGFjayI+PC9jaXJjbGU+PC9tYXNrPjxzdHlsZT4KICAgICAgICAgICAgICAgIC5lbGVtZW50LW1oM2lwcW9tcTBxODM0c2swdWcgewogICAgICAgICAgICAgICAgICAgIGZvbnQ6IDE0cHggSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZjsKICAgICAgICAgICAgICAgICAgICBhbGlnbm1lbnQtYmFzZWxpbmU6ICdtaWRkbGUnOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLnN1Yi1taDNpcHFvbXEwcTgzNHNrMHVnIHsKICAgICAgICAgICAgICAgICAgICBmb250OiA4LjRweCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICA8L3N0eWxlPjxnIG1hc2s9InVybCgjdGV4dC1tYXNrLW1oM2lwcW9tcTBxODM0c2swdWcpIj48bGluZSB4MT0iMTIzLjgzOTQxMTI2MDU5MTI5IiB5MT0iNTIuNTAwMDM2NzI5Nzk0MzQiIHgyPSIxNTEuMTE5MjAwODc2ODE0NTUiIHkyPSI2OC4yNTAwNTUwOTQ2OTE1IiBzdHlsZT0ic3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS13aWR0aDoxLjI2IiBzdHJva2U9InVybCgnI2xpbmUtbWgzaXBxb21xMHE4MzRzazB1Zy0xJykiPjwvbGluZT48bGluZSB4MT0iMTIzLjgzOTQxMTI2MDU5MTI5IiB5MT0iNTIuNTAwMDM2NzI5Nzk0MzQiIHgyPSIxMjMuODM5NDMyNDY2NTUyMDUiIHkyPSIyMS4wMDAwMzY3Mjk4MDE0OCIgc3R5bGU9InN0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2Utd2lkdGg6MS4yNiIgc3Ryb2tlPSJ1cmwoJyNsaW5lLW1oM2lwcW9tcTBxODM0c2swdWctMycpIj48L2xpbmU+PGxpbmUgeDE9Ijk2LjU1OTYwMDQzODQwNzI3IiB5MT0iNjguMjUwMDE4MzY0ODkwMDIiIHgyPSIxMjMuODM5NDExMjYwNTkxMjkiIHkyPSI1Mi41MDAwMzY3Mjk3OTQzNCIgc3R5bGU9InN0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2Utd2lkdGg6MS4yNiIgc3Ryb2tlPSJ1cmwoJyNsaW5lLW1oM2lwcW9tcTBxODM0c2swdWctNScpIj48L2xpbmU+PGxpbmUgeDE9Ijk2LjU1OTU3OTIzMjQ0NjUiIHkxPSI5OS43NTAwMTgzNjQ4ODI4OSIgeDI9Ijk2LjU1OTYwMDQzODQwNzI3IiB5Mj0iNjguMjUwMDE4MzY0ODkwMDIiIHN0eWxlPSJzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtZGFzaGFycmF5Om5vbmU7c3Ryb2tlLXdpZHRoOjEuMjYiIHN0cm9rZT0idXJsKCcjbGluZS1taDNpcHFvbXEwcTgzNHNrMHVnLTcnKSI+PC9saW5lPjxsaW5lIHgxPSI2OS4yNzk4MTA4MjIxODQwMiIgeTE9IjUyLjQ5OTk5OTk5OTk5Mjg2IiB4Mj0iOTYuNTU5NjAwNDM4NDA3MjciIHkyPSI2OC4yNTAwMTgzNjQ4OTAwMiIgc3R5bGU9InN0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1kYXNoYXJyYXk6bm9uZTtzdHJva2Utd2lkdGg6MS4yNiIgc3Ryb2tlPSJ1cmwoJyNsaW5lLW1oM2lwcW9tcTBxODM0c2swdWctOScpIj48L2xpbmU+PGxpbmUgeDE9IjQyIiB5MT0iNjguMjQ5OTgxNjM1MDg4NTUiIHgyPSI2OS4yNzk4MTA4MjIxODQwMiIgeTI9IjUyLjQ5OTk5OTk5OTk5Mjg2IiBzdHlsZT0ic3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS13aWR0aDoxLjI2IiBzdHJva2U9InVybCgnI2xpbmUtbWgzaXBxb21xMHE4MzRzazB1Zy0xMScpIj48L2xpbmU+PGxpbmUgeDE9IjY5LjI3OTgxMDgyMjE4NDAyIiB5MT0iNTIuNDk5OTk5OTk5OTkyODYiIHgyPSI2OS4yNzk4MzIwMjgxNDQ3OCIgeTI9IjIxIiBzdHlsZT0ic3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS13aWR0aDoxLjI2IiBzdHJva2U9InVybCgnI2xpbmUtbWgzaXBxb21xMHE4MzRzazB1Zy0xMycpIj48L2xpbmU+PC9nPjxnPjx0ZXh0IHg9IjE1MS4xMTkyMDA4NzY4MTQ1NSIgeT0iNjguMjUwMDU1MDk0NjkxNSIgY2xhc3M9ImRlYnVnIiBmaWxsPSIjZmYwMDAwIiBzdHlsZT0iCiAgICAgICAgICAgICAgICBmb250OiA1cHggRHJvaWQgU2Fucywgc2Fucy1zZXJpZjsKICAgICAgICAgICAgIj48L3RleHQ+PHRleHQgeD0iMTIzLjgzOTQxMTI2MDU5MTI5IiB5PSI1Mi41MDAwMzY3Mjk3OTQzNCIgY2xhc3M9ImRlYnVnIiBmaWxsPSIjZmYwMDAwIiBzdHlsZT0iCiAgICAgICAgICAgICAgICBmb250OiA1cHggRHJvaWQgU2Fucywgc2Fucy1zZXJpZjsKICAgICAgICAgICAgIj48L3RleHQ+PHRleHQgeD0iMTIzLjgzOTQzMjQ2NjU1MjA1IiB5PSIyMS4wMDAwMzY3Mjk4MDE0OCIgY2xhc3M9ImRlYnVnIiBmaWxsPSIjZmYwMDAwIiBzdHlsZT0iCiAgICAgICAgICAgICAgICBmb250OiA1cHggRHJvaWQgU2Fucywgc2Fucy1zZXJpZjsKICAgICAgICAgICAgIj48L3RleHQ+PHRleHQgeD0iOTYuNTU5NjAwNDM4NDA3MjciIHk9IjY4LjI1MDAxODM2NDg5MDAyIiBjbGFzcz0iZGVidWciIGZpbGw9IiNmZjAwMDAiIHN0eWxlPSIKICAgICAgICAgICAgICAgIGZvbnQ6IDVweCBEcm9pZCBTYW5zLCBzYW5zLXNlcmlmOwogICAgICAgICAgICAiPjwvdGV4dD48dGV4dCB4PSI5Ni41NTk1NzkyMzI0NDY1IiB5PSIxMDUuMDAwMDE4MzY0ODgyODkiIGNsYXNzPSJlbGVtZW50LW1oM2lwcW9tcTBxODM0c2swdWciIGZpbGw9ImN1cnJlbnRDb2xvciIgc3R5bGU9InRleHQtYW5jaG9yOiBzdGFydDsgd3JpdGluZy1tb2RlOiBob3Jpem9udGFsLXRiOyB0ZXh0LW9yaWVudGF0aW9uOiBtaXhlZDsgbGV0dGVyLXNwYWNpbmc6IG5vcm1hbDsgZGlyZWN0aW9uOiBsdHI7Ij48dHNwYW4gc3R5bGU9IgogICAgICAgICAgICAgICAgdW5pY29kZS1iaWRpOiBwbGFpbnRleHQ7CiAgICAgICAgICAgICAgICB3cml0aW5nLW1vZGU6IGxyLXRiOwogICAgICAgICAgICAgICAgbGV0dGVyLXNwYWNpbmc6IG5vcm1hbDsKICAgICAgICAgICAgICAgIHRleHQtYW5jaG9yOiBtaWRkbGU7CiAgICAgICAgICAgICI+QnI8L3RzcGFuPjwvdGV4dD48dGV4dCB4PSI5Ni41NTk1NzkyMzI0NDY1IiB5PSI5OS43NTAwMTgzNjQ4ODI4OSIgY2xhc3M9ImRlYnVnIiBmaWxsPSIjZmYwMDAwIiBzdHlsZT0iCiAgICAgICAgICAgICAgICBmb250OiA1cHggRHJvaWQgU2Fucywgc2Fucy1zZXJpZjsKICAgICAgICAgICAgIj48L3RleHQ+PHRleHQgeD0iNjkuMjc5ODEwODIyMTg0MDIiIHk9IjUyLjQ5OTk5OTk5OTk5Mjg2IiBjbGFzcz0iZGVidWciIGZpbGw9IiNmZjAwMDAiIHN0eWxlPSIKICAgICAgICAgICAgICAgIGZvbnQ6IDVweCBEcm9pZCBTYW5zLCBzYW5zLXNlcmlmOwogICAgICAgICAgICAiPjwvdGV4dD48dGV4dCB4PSI0MiIgeT0iNjguMjQ5OTgxNjM1MDg4NTUiIGNsYXNzPSJkZWJ1ZyIgZmlsbD0iI2ZmMDAwMCIgc3R5bGU9IgogICAgICAgICAgICAgICAgZm9udDogNXB4IERyb2lkIFNhbnMsIHNhbnMtc2VyaWY7CiAgICAgICAgICAgICI+PC90ZXh0Pjx0ZXh0IHg9IjY5LjI3OTgzMjAyODE0NDc4IiB5PSIyMSIgY2xhc3M9ImRlYnVnIiBmaWxsPSIjZmYwMDAwIiBzdHlsZT0iCiAgICAgICAgICAgICAgICBmb250OiA1cHggRHJvaWQgU2Fucywgc2Fucy1zZXJpZjsKICAgICAgICAgICAgIj48L3RleHQ+PC9nPjwvc3ZnPg=="/>
 <img class="imgSvg" id = "mh3ipqong3kab9zf0zr" src="data:image/svg+xml;base64,PHN2ZyBpZD0ic21pbGVzLW1oM2lwcW9uZzNrYWI5emYwenIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDE2NiA5Ni41NTk2MjE2NDQzNjgwNCIgc3R5bGU9IndpZHRoOiAxNjUuODM5NDExMjYwNTkxM3B4OyBoZWlnaHQ6IDk2LjU1OTYyMTY0NDM2ODA0cHg7IG92ZXJmbG93OiB2aXNpYmxlOyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lLW1oM2lwcW9uZzNrYWI5emYwenItMSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSI5Ni41NTk2MjE2NDQzNjgwNCIgeTE9IjMyLjUyOTgyOTE4NzA4ODMzIiB4Mj0iMTIzLjgzOTQxMTI2MDU5MTMiIHkyPSI0OC4yNzk4NDc1NTE5ODU1MDUiPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIyMCUiPjwvc3RvcD48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMTAwJSI+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lLW1oM2lwcW9uZzNrYWI5emYwenItMyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSI2OS4yNzk4MTA4MjIxODQwMyIgeTE9IjQ4LjI3OTgxMDgyMjE4NDAyNSIgeDI9Ijk2LjU1OTYyMTY0NDM2ODA0IiB5Mj0iMzIuNTI5ODI5MTg3MDg4MzMiPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIyMCUiPjwvc3RvcD48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMTAwJSI+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lLW1oM2lwcW9uZzNrYWI5emYwenItNSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSI0MiIgeTE9IjY0LjAyOTc5MjQ1NzI3OTcxIiB4Mj0iNjkuMjc5ODEwODIyMTg0MDMiIHkyPSI0OC4yNzk4MTA4MjIxODQwMjUiPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIyMCUiPjwvc3RvcD48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMTAwJSI+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lLW1oM2lwcW9uZzNrYWI5emYwenItNyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSI1My41Mjk4MjkxODcwODgzMyIgeTE9IjIxIiB4Mj0iNjkuMjc5ODEwODIyMTg0MDMiIHkyPSI0OC4yNzk4MTA4MjIxODQwMjUiPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIyMCUiPjwvc3RvcD48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMTAwJSI+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJsaW5lLW1oM2lwcW9uZzNrYWI5emYwenItOSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSI2OS4yNzk4MTA4MjIxODQwMyIgeTE9IjQ4LjI3OTgxMDgyMjE4NDAyNSIgeDI9Ijg1LjAyOTc5MjQ1NzI3OTcxIiB5Mj0iNzUuNTU5NjIxNjQ0MzY4MDQiPjxzdG9wIHN0b3AtY29sb3I9ImN1cnJlbnRDb2xvciIgb2Zmc2V0PSIyMCUiPjwvc3RvcD48c3RvcCBzdG9wLWNvbG9yPSJjdXJyZW50Q29sb3IiIG9mZnNldD0iMTAwJSI+PC9zdG9wPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxtYXNrIGlkPSJ0ZXh0LW1hc2stbWgzaXBxb25nM2thYjl6ZjB6ciI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0id2hpdGUiPjwvcmVjdD48Y2lyY2xlIGN4PSI4NS4wMjk3OTI0NTcyNzk3MSIgY3k9Ijc1LjU1OTYyMTY0NDM2ODA0IiByPSI4LjUzMTI1IiBmaWxsPSJibGFjayI+PC9jaXJjbGU+PC9tYXNrPjxzdHlsZT4KICAgICAgICAgICAgICAgIC5lbGVtZW50LW1oM2lwcW9uZzNrYWI5emYwenIgewogICAgICAgICAgICAgICAgICAgIGZvbnQ6IDE0cHggSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZjsKICAgICAgICAgICAgICAgICAgICBhbGlnbm1lbnQtYmFzZWxpbmU6ICdtaWRkbGUnOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLnN1Yi1taDNpcHFvbmcza2FiOXpmMHpyIHsKICAgICAgICAgICAgICAgICAgICBmb250OiA4LjRweCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICA8L3N0eWxlPjxnIG1hc2s9InVybCgjdGV4dC1tYXNrLW1oM2lwcW9uZzNrYWI5emYwenIpIj48bGluZSB4MT0iOTYuNTU5NjIxNjQ0MzY4MDQiIHkxPSIzMi41Mjk4MjkxODcwODgzMyIgeDI9IjEyMy44Mzk0MTEyNjA1OTEzIiB5Mj0iNDguMjc5ODQ3NTUxOTg1NTA1IiBzdHlsZT0ic3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS13aWR0aDoxLjI2IiBzdHJva2U9InVybCgnI2xpbmUtbWgzaXBxb25nM2thYjl6ZjB6ci0xJykiPjwvbGluZT48bGluZSB4MT0iNjkuMjc5ODEwODIyMTg0MDMiIHkxPSI0OC4yNzk4MTA4MjIxODQwMjUiIHgyPSI5Ni41NTk2MjE2NDQzNjgwNCIgeTI9IjMyLjUyOTgyOTE4NzA4ODMzIiBzdHlsZT0ic3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS13aWR0aDoxLjI2IiBzdHJva2U9InVybCgnI2xpbmUtbWgzaXBxb25nM2thYjl6ZjB6ci0zJykiPjwvbGluZT48bGluZSB4MT0iNDIiIHkxPSI2NC4wMjk3OTI0NTcyNzk3MSIgeDI9IjY5LjI3OTgxMDgyMjE4NDAzIiB5Mj0iNDguMjc5ODEwODIyMTg0MDI1IiBzdHlsZT0ic3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS13aWR0aDoxLjI2IiBzdHJva2U9InVybCgnI2xpbmUtbWgzaXBxb25nM2thYjl6ZjB6ci01JykiPjwvbGluZT48bGluZSB4MT0iNTMuNTI5ODI5MTg3MDg4MzMiIHkxPSIyMSIgeDI9IjY5LjI3OTgxMDgyMjE4NDAzIiB5Mj0iNDguMjc5ODEwODIyMTg0MDI1IiBzdHlsZT0ic3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS13aWR0aDoxLjI2IiBzdHJva2U9InVybCgnI2xpbmUtbWgzaXBxb25nM2thYjl6ZjB6ci03JykiPjwvbGluZT48bGluZSB4MT0iNjkuMjc5ODEwODIyMTg0MDMiIHkxPSI0OC4yNzk4MTA4MjIxODQwMjUiIHgyPSI4NS4wMjk3OTI0NTcyNzk3MSIgeTI9Ijc1LjU1OTYyMTY0NDM2ODA0IiBzdHlsZT0ic3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS13aWR0aDoxLjI2IiBzdHJva2U9InVybCgnI2xpbmUtbWgzaXBxb25nM2thYjl6ZjB6ci05JykiPjwvbGluZT48L2c+PGc+PHRleHQgeD0iMTIzLjgzOTQxMTI2MDU5MTMiIHk9IjQ4LjI3OTg0NzU1MTk4NTUwNSIgY2xhc3M9ImRlYnVnIiBmaWxsPSIjZmYwMDAwIiBzdHlsZT0iCiAgICAgICAgICAgICAgICBmb250OiA1cHggRHJvaWQgU2Fucywgc2Fucy1zZXJpZjsKICAgICAgICAgICAgIj48L3RleHQ+PHRleHQgeD0iOTYuNTU5NjIxNjQ0MzY4MDQiIHk9IjMyLjUyOTgyOTE4NzA4ODMzIiBjbGFzcz0iZGVidWciIGZpbGw9IiNmZjAwMDAiIHN0eWxlPSIKICAgICAgICAgICAgICAgIGZvbnQ6IDVweCBEcm9pZCBTYW5zLCBzYW5zLXNlcmlmOwogICAgICAgICAgICAiPjwvdGV4dD48dGV4dCB4PSI2OS4yNzk4MTA4MjIxODQwMyIgeT0iNDguMjc5ODEwODIyMTg0MDI1IiBjbGFzcz0iZGVidWciIGZpbGw9IiNmZjAwMDAiIHN0eWxlPSIKICAgICAgICAgICAgICAgIGZvbnQ6IDVweCBEcm9pZCBTYW5zLCBzYW5zLXNlcmlmOwogICAgICAgICAgICAiPjwvdGV4dD48dGV4dCB4PSI0MiIgeT0iNjQuMDI5NzkyNDU3Mjc5NzEiIGNsYXNzPSJkZWJ1ZyIgZmlsbD0iI2ZmMDAwMCIgc3R5bGU9IgogICAgICAgICAgICAgICAgZm9udDogNXB4IERyb2lkIFNhbnMsIHNhbnMtc2VyaWY7CiAgICAgICAgICAgICI+PC90ZXh0Pjx0ZXh0IHg9IjUzLjUyOTgyOTE4NzA4ODMzIiB5PSIyMSIgY2xhc3M9ImRlYnVnIiBmaWxsPSIjZmYwMDAwIiBzdHlsZT0iCiAgICAgICAgICAgICAgICBmb250OiA1cHggRHJvaWQgU2Fucywgc2Fucy1zZXJpZjsKICAgICAgICAgICAgIj48L3RleHQ+PHRleHQgeD0iODUuMDI5NzkyNDU3Mjc5NzEiIHk9IjgwLjgwOTYyMTY0NDM2ODA0IiBjbGFzcz0iZWxlbWVudC1taDNpcHFvbmcza2FiOXpmMHpyIiBmaWxsPSJjdXJyZW50Q29sb3IiIHN0eWxlPSJ0ZXh0LWFuY2hvcjogc3RhcnQ7IHdyaXRpbmctbW9kZTogaG9yaXpvbnRhbC10YjsgdGV4dC1vcmllbnRhdGlvbjogbWl4ZWQ7IGxldHRlci1zcGFjaW5nOiBub3JtYWw7IGRpcmVjdGlvbjogbHRyOyI+PHRzcGFuIHN0eWxlPSIKICAgICAgICAgICAgICAgIHVuaWNvZGUtYmlkaTogcGxhaW50ZXh0OwogICAgICAgICAgICAgICAgd3JpdGluZy1tb2RlOiBsci10YjsKICAgICAgICAgICAgICAgIGxldHRlci1zcGFjaW5nOiBub3JtYWw7CiAgICAgICAgICAgICAgICB0ZXh0LWFuY2hvcjogbWlkZGxlOwogICAgICAgICAgICAiPkJyPC90c3Bhbj48L3RleHQ+PHRleHQgeD0iODUuMDI5NzkyNDU3Mjc5NzEiIHk9Ijc1LjU1OTYyMTY0NDM2ODA0IiBjbGFzcz0iZGVidWciIGZpbGw9IiNmZjAwMDAiIHN0eWxlPSIKICAgICAgICAgICAgICAgIGZvbnQ6IDVweCBEcm9pZCBTYW5zLCBzYW5zLXNlcmlmOwogICAgICAgICAgICAiPjwvdGV4dD48L2c+PC9zdmc+"/>
 
-## BAI 20. ALCOHOL
+## Bài 20. ALCOHOL
 
 | 20.1. D | 20.2. C | 20.3. B | 20.4.A | 20.5. A |
 | :--- | :--- | :--- | :--- | :--- |
@@ -1078,7 +1062,7 @@ Do hiệu suất chung của cả quá trình là 70\% nên thể tích ethanol 
 
 Thể tích xăng E5 là: $V_{E 5}=\frac{377,88 \cdot 100}{5}=7557,6(\mathrm{~L})$.
 
-## BAIZI PHENOL
+## Bài 21. PHENOL
 
 | 21.1. B | 21.2. C | 21.3. C | 21.4. A | 21.5. B |
 | :---: | :---: | :---: | :---: | :---: |
@@ -1120,7 +1104,7 @@ $$
 ![](https://cdn.mathpix.com/cropped/2025_10_23_ed7118e3280f74e91193g-35.jpg?height=141&width=1495&top_left_y=2118&top_left_x=282)
 ![](https://cdn.mathpix.com/cropped/2025_10_23_ed7118e3280f74e91193g-35.jpg?height=273&width=1446&top_left_y=2272&top_left_x=279)
 
-## BAI22. ÔN TÂP CHUONG 5
+## Bài 22. ÔN TÂP CHUONG 5
 
 | $22.1 . \mathrm{B}$ | $22.2 . \mathrm{D}$ | $22.3 . \mathrm{D}$ |
 | :---: | :---: | :---: |
@@ -1146,9 +1130,7 @@ Y
 
 $\mathbb{Z}$
 
-## Churong 6 IOP CIÁT CARBONYL CARBOXYLIC ACID
-
-## BAI23. HƠP CHẤT CARBONYL
+## Bài 23. HƠP CHẤT CARBONYL
 
 | 23.1.A | 23.2. D | 23.3. C | 23.4. C | 23.5. B |
 | :--- | :--- | :--- | :--- | :--- |
@@ -1187,9 +1169,7 @@ $\mathrm{CH}_{3} \mathrm{CHO}+3 \mathrm{I}_{2}+4 \mathrm{NaOH} \xrightarrow{\mat
 cinnamaidehyde
 
 
-## BAL24.
-
-## CARBOXYLIC ACID
+## Bài 24. CARBOXYLIC ACID
 
 | 24.1. B | 24.2.A | 24.3.C | 24.4.C | 24.5. C |
 | :--- | :--- | :--- | :--- | :--- |
@@ -1268,7 +1248,7 @@ $\dot{\mathrm{n}}_{\text {ester thưc tế }}=\frac{17,6}{88}=0,2(\mathrm{~mol})
 Hiệu suất phản ứng ester hoá là:
 $H(\%)=\frac{0,2}{0,343} \cdot 100 \%=58,3 \%$.
 
-## BAI 25. ÔN TÂP CHUONG 6
+## Bài 25. ÔN TÂP CHUONG 6
 
 | $25.1 . \mathrm{A}$ | $25.2 . \mathrm{B}$ | $25.3 . \mathrm{D}$ | $25.4 . \mathrm{B}$ | $25.5 . \mathrm{B}$ |
 | :--- | :--- | :--- | :--- | :--- |
