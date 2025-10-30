@@ -1,0 +1,4 @@
+1. Thu thập câu hỏi từ sách bài tập. [DONE]
+2. Sử dung Mathpix để OCR . [DONE]
+3. Phân tách câu hỏi theo chương bài và số thứ tự câu hỏi. [DONE]
+4. Chuẩn hóa tên chương, bài. [DONE]
