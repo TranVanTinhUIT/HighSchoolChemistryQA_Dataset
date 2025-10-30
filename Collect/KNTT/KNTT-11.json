@@ -202,7 +202,7 @@
     "Scope": "Vận Dụng",
     "QuestionID": "1.14",
     "Context": "",
-    "Question": "Khi xăng cháy trong động co $\\hat{O}$ tô sẽ tạo ra nhiệt độ cao, lúc đó $\\mathrm{N}_{2}$ phản ứng với $\\mathrm{O}_{2}$ tạo thành NO :\n$$\n\\begin{equation*}\n\\mathrm{N}_{2}(\\mathrm{~g})+\\mathrm{O}_{2}(\\mathrm{~g}) \\rightleftharpoons 2 \\mathrm{NO}(\\mathrm{g}) \	ag{1}\n\\end{equation*}\n$$\nNO khi đưọc giải phóng ra không khí nhanh chỏng kết họp với $\\mathrm{O}_{2}$ tạo thành $\\mathrm{NO}_{2}$ là một khí gây ô nhiểm môi trường. Ở $2000^{\\circ} \\mathrm{C}$, hằng số cân bằng $\\mathrm{K}_{\\mathrm{c}}$ của phản úng (1) là 0,01.\nNếu trong bình kín dung tích 1 lít có $4 \\mathrm{~mol} \\mathrm{~N}_{2}$ và $0,1 \\mathrm{~mol} \\mathrm{O}_{2}$ thì ở $2000^{\\circ} \\mathrm{C}$ lượng khí NO tạo thành là bao nhiêu (giả thiết NO chưa phản úng với $\\mathrm{O}_{2}$ )?\n",
+    "Question": "Khi xăng cháy trong động co $\\hat{O}$ tô sẽ tạo ra nhiệt độ cao, lúc đó $\\mathrm{N}_{2}$ phản ứng với $\\mathrm{O}_{2}$ tạo thành NO :\n$$\n\\begin{equation*}\n\\mathrm{N}_{2}(\\mathrm{~g})+\\mathrm{O}_{2}(\\mathrm{~g}) \\rightleftharpoons 2 \\mathrm{NO}(\\mathrm{g}) \tag{1}\n\\end{equation*}\n$$\nNO khi đưọc giải phóng ra không khí nhanh chỏng kết họp với $\\mathrm{O}_{2}$ tạo thành $\\mathrm{NO}_{2}$ là một khí gây ô nhiểm môi trường. Ở $2000^{\\circ} \\mathrm{C}$, hằng số cân bằng $\\mathrm{K}_{\\mathrm{c}}$ của phản úng (1) là 0,01.\nNếu trong bình kín dung tích 1 lít có $4 \\mathrm{~mol} \\mathrm{~N}_{2}$ và $0,1 \\mathrm{~mol} \\mathrm{O}_{2}$ thì ở $2000^{\\circ} \\mathrm{C}$ lượng khí NO tạo thành là bao nhiêu (giả thiết NO chưa phản úng với $\\mathrm{O}_{2}$ )?\n",
     "Type": "Essay",
     "Answer": "",
     "Options": ""

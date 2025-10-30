@@ -3101,7 +3101,7 @@
     "Scope": "Vận Dụng",
     "QuestionID": "12.16",
     "Context": "",
-    "Question": "Poly(vinyl alcohol) (viết tắt là PVA) được dùng làm chất kết dính, sợi vinylon, vật liệu ứng dụng trong y tế,... Polyvinyl acetate (viết tắt là PVAc) được sử dụng phổ biến làm keo dán gỗ, keo dán giấy,... PVAc và PVA được tổng hợp theo sơ đồ sau đây:\n$$\n\\mathrm{HC} \\equiv \\mathrm{CH} \\xrightarrow{+\\mathrm{CH}_{3} \\mathrm{COOH}} \\mathrm{~A} \\xrightarrow{\	ext { trùng hợp }} \\mathrm{PVAc} \\xrightarrow{\\mathrm{NaOH}, \\mathrm{t}^{\\circ}} \\mathrm{PVA}\n$$\na) Viết phương trình hoá học hoàn thành sơ đồ chuyển hoá trên.\nb) PVA là một polymer có khả năng hoà tan được trong nước. Giải thích.\n",
+    "Question": "Poly(vinyl alcohol) (viết tắt là PVA) được dùng làm chất kết dính, sợi vinylon, vật liệu ứng dụng trong y tế,... Polyvinyl acetate (viết tắt là PVAc) được sử dụng phổ biến làm keo dán gỗ, keo dán giấy,... PVAc và PVA được tổng hợp theo sơ đồ sau đây:\n$$\n\\mathrm{HC} \\equiv \\mathrm{CH} \\xrightarrow{+\\mathrm{CH}_{3} \\mathrm{COOH}} \\mathrm{~A} \\xrightarrow{\text { trùng hợp }} \\mathrm{PVAc} \\xrightarrow{\\mathrm{NaOH}, \\mathrm{t}^{\\circ}} \\mathrm{PVA}\n$$\na) Viết phương trình hoá học hoàn thành sơ đồ chuyển hoá trên.\nb) PVA là một polymer có khả năng hoà tan được trong nước. Giải thích.\n",
     "Type": "Essay",
     "Answer": "",
     "Options": ""

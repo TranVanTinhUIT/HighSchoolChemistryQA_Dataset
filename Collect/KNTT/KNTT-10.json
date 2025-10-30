@@ -1697,7 +1697,7 @@
     "Scope": "Nhận Biết",
     "QuestionID": "8.3",
     "Context": "",
-    "Question": "Cho cấu hình electron nguyên tử của các nguyên tố sau:\n$$\nX\\left(1 s^{2} 2 s^{2} 2 p^{6} 3 s^{1}\\right) ; Y\\left(1 s^{2} 2 s^{2} 2 p^{6} 3 s^{2}\\right) \	ext { và } Z\\left(1 s^{2} 2 s^{2} 2 p^{6} 3 s^{2} 3 p^{1}\\right)\n$$\nDãy các nguyên tố xếp theo chiều tăng dần tính kim loại từ trái sang phải là\n",
+    "Question": "Cho cấu hình electron nguyên tử của các nguyên tố sau:\n$$\nX\\left(1 s^{2} 2 s^{2} 2 p^{6} 3 s^{1}\\right) ; Y\\left(1 s^{2} 2 s^{2} 2 p^{6} 3 s^{2}\\right) \text { và } Z\\left(1 s^{2} 2 s^{2} 2 p^{6} 3 s^{2} 3 p^{1}\\right)\n$$\nDãy các nguyên tố xếp theo chiều tăng dần tính kim loại từ trái sang phải là\n",
     "Type": "Choice",
     "Answer": "",
     "Options": "A. $Z, Y, X$.\nB. $X, Y, Z$.\nC. $Y, Z, X$.\nD. $Z, X, Y$.\n"
